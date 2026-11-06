@@ -1,0 +1,33 @@
+{
+  "initial_rows": 5500,
+  "cleaned_rows": 5500,
+  "missing_values_before": {
+    "played_at": 0,
+    "artist_name": 0,
+    "track_name": 0,
+    "ms_played": 0
+  },
+  "duplicates_removed": 0,
+  "outliers_too_short_removed": 0,
+  "outliers_too_long_removed": 0,
+  "iqr_upper_bound_minutes": 5.5,
+  "iqr_long_track_count": 0,
+  "unique_artists": 14,
+  "unique_tracks": 46,
+  "unique_genres": 9,
+  "total_sessions": 536,
+  "overall_skip_rate": 0.1665,
+  "total_hours_played": 258.27,
+  "session_summary": {
+    "median_session_minutes": 28.02,
+    "iqr_session_minutes": 18.95,
+    "mean_session_tracks": 10.26,
+    "mean_session_skip_rate": 0.164
+  },
+  "generated_figures": [
+    "outputs\\figures\\eda_01_hourly_weekday_heatmap.png",
+    "outputs\\figures\\eda_02_top_artists_and_skip.png",
+    "outputs\\figures\\eda_03_session_distributions.png",
+    "outputs\\figures\\eda_04_genre_by_day_period.png"
+  ]
+}

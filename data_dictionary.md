@@ -1,44 +1,50 @@
-# Veri Sözlüğü Taslağı (Data Dictionary Draft) — Hafta 2
+# Veri Sözlüğü (Data Dictionary) — Hafta 3 Güncellemesi
 
 **Proje:** Kişisel Dinleme Alışkanlıklarının Madenciliği, Oturum Kümelemesi ve Sonraki Şarkı Önerisi  
 **Öğrenci:** Hasan Kaplan (`256066007`)  
-**Teslim Evresi:** Hafta 2 (Otomatik ve Periyodik Toplama, Ham Veri Arşivleme ve Veri Sözlüğü Taslağı)
+**Teslim Evresi:** Hafta 3 (Temizleme, Eksik Veri / Aykırı Değer Analizi ve EDA)
 
-Bu belge, **Hafta 2** itibarıyla toplanan ve `data/raw/` altında arşivlenip `data/processed/raw_combined_history.parquet` ile `data/processed/listening_history.parquet` dosyalarına dönüştürülen birincil veri kaynaklarının şemasını tanımlar. *(Not: Eksik veri/aykırı değer temizliği ve nihai oturum öznitelik çıkarımı Hafta 3'te gerçekleştirilecek ve bu sözlük güncellenecektir.)*
+Bu belge, Hafta 2'de oluşturulan veri sözlüğü taslağının Hafta 3 temizleme, aykırı değer analizi ve oturum öznitelik çıkarımı adımlarından sonraki güncellenmiş hâlidir.
 
-## 1. Ham Veri Kaynakları ve Arşivleme Yapısı (`data/raw/`)
+## 1. Parça Bazlı Temizlenmiş Dinleme Tablosu (`data/processed/listening_history.parquet`)
 
-Hafta 2'de kurulan toplama boru hattı üç tamamlayıcı kaynağı birleştirir ve her çalışmayı `data/raw/collection_manifest.csv` dosyasında kayıt altına alır:
+Her satır, kalite kontrollerinden geçmiş tek bir şarkı dinleme olayını temsil eder.
 
-| Kaynak Dosya / Tablo | Biçim | Kaynak Türü | Açıklama |
-| :--- | :--- | :--- | :--- |
-| `StreamingHistory_music_*.json` | JSON | Birincil Veri (Spotify Dışa Aktarımı) | Kullanıcının son 1 yıldaki şarkı dinleme kayıtları (`endTime`, `artistName`, `trackName`, `msPlayed`). |
-| `archive/snapshot_*.json` | JSON | Periyodik Ham Arşiv | `periodic_collector.py` her çalıştığında alınan zaman damgalı ve SHA-256 özetli ham veri yedeği. |
-| `collection_manifest.csv` | CSV | Toplama Kayıt Defteri (Log) | Her periyodik çekimin UTC zamanını, satır sayısını, tekil sanatçı sayısını ve dosya özetini (`sha256_prefix`) tutar. |
-| `artist_tags_cache.sqlite` | SQLite | API Zenginleştirme Önbelleği | Last.fm API (`artist.getTopTags`) üzerinden çekilen sanatçı–tür eşleşmelerini önbellekler. |
-
-## 2. Birleştirilmiş Dinleme Geçmişi Tablosu Taslak Şeması (`listening_history.parquet`)
-
-Her satır, zaman sırasına göre gerçekleşmiş tek bir şarkı dinleme kaydını temsil eder.
-
-| Sütun Adı | Veri Tipi | Birim / Biçim | Kaynak | Açıklama ve Hafta 3 İçin Planlanan Kalite Kuralı |
+| Sütun Adı | Veri Tipi | Birim / Biçim | Açıklama | Uygulanan Temizleme ve Aykırı Değer Kuralı |
 | :--- | :--- | :--- | :--- | :--- |
-| `played_at` | `datetime64[ns, UTC]` | ISO-8601 (UTC) | Spotify / Last.fm | Şarkı dinleme işleminin bittiği zaman damgası. Hafta 3'te mükerrer zaman damgaları kontrol edilecektir. |
-| `artist_name` | `string` | Metin | Spotify / Last.fm | Şarkıyı seslendiren sanatçı veya grup adı. Boşlukları temizlenmiş (`strip()`) metin. |
-| `track_name` | `string` | Metin | Spotify / Last.fm | Dinlenen şarkının adı. Podcast ve sesli kitap kayıtları Hafta 3'te filtrelenecektir. |
-| `primary_genre` | `string` | Kategori | Last.fm API | Sanatçının en popüler müzik türü etiketi (ör. `Türkçe Rock`, `Indie Rock`). Etiketi bulunmayanlar `"unknown"` alır. |
-| `ms_played` | `int64` | Milisaniye (`ms`) | Spotify JSON | Şarkının çalındığı süre. Hafta 3'te `< 1.000 ms` tıklama hataları ve `> 3.600.000 ms` açık kalma anomalileri temizlenecektir. |
-| `minutes_played` | `float64` | Dakika (`dk`) | Türetilmiş | `ms_played / 60000.0` formülüyle hesaplanan dakika cinsinden dinleme süresi. |
-| `reason_end` | `string` | Kategori | Spotify JSON | Şarkının bitiş şekli (`trackdone` / `completed` veya `fwdbtn` — ileri sarma/atlama). |
-| `is_skipped` | `bool` | Mantıksal (`True`/`False`) | Türetilmiş | Şarkının 30 saniyeden (`30.000 ms`) kısa dinlenip atlanıp atlanmadığını belirten bayrak. |
-| `gap_minutes` | `float64` | Dakika (`dk`) | Türetilmiş | Bir önceki şarkı ile mevcut şarkı arasındaki bekleme süresi. |
-| `is_new_session` | `bool` | Mantıksal (`True`/`False`) | Türetilmiş | `gap_minutes > 30.0` olduğunda yeni bir dinleme oturumunun başladığını gösterir. |
-| `session_id` | `int64` | Tam sayı (`1..N`) | Türetilmiş | `is_new_session` üzerinden atanan tekil dinleme oturumu numarası. |
-| `hour` | `int32` | Saat (`0..23`) | Türetilmiş | Türkiye yerel saatine (`Europe/Istanbul`) göre dinlemenin gerçekleştiği saat dilimi. |
-| `day_of_week` | `string` | Gün adı (`Monday..Sunday`) | Türetilmiş | Dinlemenin gerçekleştiği haftanın günü. |
-| `is_weekend` | `bool` | Mantıksal (`True`/`False`) | Türetilmiş | Dinlemenin Cumartesi veya Pazar günü gerçekleşip gerçekleşmediği. |
+| `played_at` | `datetime64[ns, UTC]` | ISO-8601 (UTC) | Şarkı dinleme işleminin bittiği zaman damgası | Boş (`null`) ve mükerrer kayıtlar çıkarıldı; kronolojik sıralandı. |
+| `artist_name` | `string` | Metin | Şarkıyı seslendiren sanatçı veya grup adı | Baş/son boşluklar (`strip()`) temizlendi. |
+| `track_name` | `string` | Metin | Dinlenen parçanın adı | Baş/son boşluklar temizlendi. |
+| `primary_genre` | `string` | Kategori | Last.fm API (`artist.getTopTags`) ana müzik türü | Eksik tür etiketleri `"unknown"` kategorisine atandı. |
+| `ms_played` | `int64` | Milisaniye (`ms`) | Parçanın çalındığı süre | `< 1.000 ms` (1 sn altı tıklama hatası) ve `> 3.600.000 ms` (60 dk üstü açık kalma anomalisi) elendi. |
+| `minutes_played` | `float64` | Dakika (`dk`) | `ms_played / 60000.0` ile hesaplanan dinleme süresi | `[0.017, 60.0]` dk aralığında doğrulandı; IQR üst sınırı `eda_summary.json` içinde raporlandı. |
+| `reason_end` | `string` | Kategori | Parçanın bitiş nedeni (`trackdone`, `fwdbtn` vb.) | `< 30 sn` dinlemeler `fwdbtn` (ileri sarma/atlama) olarak standartlaştırıldı. |
+| `is_skipped` | `bool` | Mantıksal (`True`/`False`) | Şarkının 30 saniyeden kısa dinlenip atlanıp atlanmadığı | `ms_played < 30.000 ms` koşuluyla türetildi. |
+| `gap_minutes` | `float64` | Dakika (`dk`) | Bir önceki şarkı ile mevcut şarkı arasındaki boşluk süresi | İlk kayıtta `0.0`; negatif değer bulunmadığı doğrulandı. |
+| `is_new_session` | `bool` | Mantıksal (`True`/`False`) | `gap_minutes > 30.0` koşuluna göre yeni oturum başlangıcı | 30 dakikalık sessizlik eşiğiyle hesaplandı. |
+| `session_id` | `int64` | Tam sayı (`1..N`) | Tekil dinleme oturumu kimliği | Temizleme sonrası kesintisiz `1..N` olarak yeniden numaralandırıldı. |
+| `hour` | `int32` | Saat (`0..23`) | Türkiye yerel saatine (`Europe/Istanbul`) göre dinleme saati | Zaman dilimi dönüşümü sonrasında çıkarıldı. |
+| `day_of_week` | `string` | Gün adı (`Monday..Sunday`) | Dinlemenin gerçekleştiği haftanın günü | Haftalık takvim ısı haritası için üretildi. |
+| `is_weekend` | `bool` | Mantıksal (`True`/`False`) | Cumartesi veya Pazar günü dinlemesi olup olmadığı | `local_dt.dt.day_of_week >= 5` kuralıyla üretildi. |
+| `day_period` | `string` | Kategori | `Sabah (06-11)`, `Gündüz (12-17)`, `Akşam (18-23)`, `Gece (00-05)` | Günün zaman dilimi bazlı tür dağılımı analizi için eklendi. |
 
-## 3. Hafta 2 Veri Büyüklüğü ve Hız Sınırı Notları
+## 2. Oturum Bazlı Öznitelik Tablosu (`data/processed/sessions_features.parquet`)
 
-* **Hedeflenen Asgari Veri Büyüklüğü:** Şartnamedeki tablo verisi asgari sınırı olan **5.000 satırın** üzerinde (en az 5.500 – 10.000+ dinleme satırı) veri toplanmaktadır.
-* **API Hız Sınırı (Rate Limiting):** Last.fm API kullanım koşullarına uygun olarak istekler arasında `0.35 saniye` bekleme süresi uygulanmakta ve her sanatçı SQLite önbellekten yalnızca bir kez sorgulanmaktadır.
+Hafta 3'te türetilen bu tablo, her dinleme oturumunu tek bir satırda özetler ve Hafta 4'teki kümeleme modellerinin (`K-Means`, `HDBSCAN`) girdisini oluşturur.
+
+| Sütun Adı | Veri Tipi | Birim / Biçim | Açıklama |
+| :--- | :--- | :--- | :--- |
+| `session_id` | `int64` | Tam sayı (`1..N`) | Tekil dinleme oturumu kimliği (Birincil Anahtar). |
+| `session_start` | `datetime64[ns, Europe/Istanbul]` | Yerel Zaman | Oturumdaki ilk parçanın başlangıç zamanı. |
+| `session_end` | `datetime64[ns, Europe/Istanbul]` | Yerel Zaman | Oturumdaki son parçanın bitiş zamanı. |
+| `track_count` | `int64` | Adet | Oturum boyunca dinlenen toplam şarkı sayısı. |
+| `unique_artists` | `int64` | Adet | Oturumda dinlenen tekil sanatçı sayısı. |
+| `unique_genres` | `int64` | Adet | Oturumda dinlenen tekil müzik türü sayısı. |
+| `total_minutes` | `float64` | Dakika (`dk`) | Oturumun toplam müzik dinleme süresi. |
+| `mean_track_minutes` | `float64` | Dakika (`dk`) | Oturumdaki ortalama şarkı dinleme süresi. |
+| `skip_rate` | `float64` | Oran (`0.0..1.0`) | Oturum içinde atlanan (`is_skipped == True`) şarkıların oranı. |
+| `artist_diversity` | `float64` | Oran (`0.0..1.0`) | `unique_artists / track_count` ile hesaplanan sanatçı çeşitlilik skoru. |
+| `start_hour` | `int32` | Saat (`0..23`) | Oturumun başladığı günün saati. |
+| `sin_hour`, `cos_hour` | `float64` | Oran (`-1.0..1.0`) | Gece yarısı sürekliliğini koruyan döngüsel (cyclical) saat bileşenleri. |
+| `dominant_genre` | `string` | Kategori | Oturumda en çok tekrar eden baskın müzik türü. |
+| `dominant_artist` | `string` | Metin | Oturumda en çok dinlenen baskın sanatçı. |
