@@ -1,0 +1,7 @@
+﻿[project]
+name = "spotify-dinleme-madenciligi"
+version = "0.2.0"
+description = "Kişisel Dinleme Alışkanlıklarının Madenciliği (Hasan Kaplan - 256066007)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["numpy", "pandas", "pyarrow", "matplotlib", "seaborn", "scikit-learn", "mlxtend", "lightgbm", "torch", "shap", "streamlit"]

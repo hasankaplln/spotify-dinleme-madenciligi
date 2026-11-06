@@ -1,0 +1,6 @@
+﻿data/raw/*.json
+data/raw/archive/*.json
+data/processed/*.parquet
+data/processed/*.sqlite
+.venv/
+__pycache__/
