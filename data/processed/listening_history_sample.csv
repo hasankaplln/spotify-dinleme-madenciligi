@@ -1,0 +1,201 @@
+played_at,artist_name,track_name,primary_genre,ms_played,reason_end,minutes_played,is_skipped,gap_minutes,is_new_session,session_id,hour,day_of_week,is_weekend
+2026-04-01 09:18:58.456+00:00,Ceza,Yerli Plaka,Türkçe Rap,232874,trackdone,3.881,False,0.0,True,1,12,Wednesday,False
+2026-04-01 09:22:15.152+00:00,Tame Impala,The Less I Know The Better,Indie / Psychedelic,192665,trackdone,3.211,False,3.28,False,1,12,Wednesday,False
+2026-04-01 09:22:41.359+00:00,Ludovico Einaudi,Una Mattina,Instrumental / Focus,24606,fwdbtn,0.41,True,0.44,False,1,12,Wednesday,False
+2026-04-01 09:23:04.505+00:00,Radiohead,Creep,Alternative Rock,20736,fwdbtn,0.346,True,0.39,False,1,12,Wednesday,False
+2026-04-01 09:23:15.450+00:00,Tame Impala,Borderline,Indie / Psychedelic,6260,fwdbtn,0.104,True,0.18,False,1,12,Wednesday,False
+2026-04-01 21:10:12.808+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,231336,trackdone,3.856,False,706.96,True,2,0,Thursday,False
+2026-04-01 21:14:11.727+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,234327,trackdone,3.905,False,3.98,False,2,0,Thursday,False
+2026-04-01 21:16:53.978+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,155373,trackdone,2.59,False,2.7,False,2,0,Thursday,False
+2026-04-01 21:17:13.289+00:00,Mor ve Ötesi,Deli,Türkçe Rock,14809,fwdbtn,0.247,True,0.32,False,2,0,Thursday,False
+2026-04-01 21:20:20.061+00:00,Mabel Matiz,Öyle Kolaysa,Türkçe Pop,184495,trackdone,3.075,False,3.11,False,2,0,Thursday,False
+2026-04-01 21:24:37.742+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,251211,trackdone,4.187,False,4.29,False,2,0,Thursday,False
+2026-04-01 21:25:01.010+00:00,Arctic Monkeys,Snap Out of It,Indie Rock,19452,fwdbtn,0.324,True,0.39,False,2,0,Thursday,False
+2026-04-01 21:29:04.559+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,238731,trackdone,3.979,False,4.06,False,2,0,Thursday,False
+2026-04-01 21:32:21.921+00:00,Ezhel,Margiela,Türkçe Rap,193209,trackdone,3.22,False,3.29,False,2,0,Thursday,False
+2026-04-01 21:35:10.833+00:00,Duman,Kufi,Türkçe Rock,167268,trackdone,2.788,False,2.82,False,2,0,Thursday,False
+2026-04-01 21:38:44.598+00:00,Ólafur Arnalds,Saman,Instrumental / Focus,206550,trackdone,3.442,False,3.56,False,2,0,Thursday,False
+2026-04-01 21:41:19.264+00:00,Mabel Matiz,Numaracı,Türkçe Pop,147658,trackdone,2.461,False,2.58,False,2,0,Thursday,False
+2026-04-01 21:45:21.516+00:00,Mabel Matiz,Öyle Kolaysa,Türkçe Pop,239315,trackdone,3.989,False,4.04,False,2,0,Thursday,False
+2026-04-01 21:48:59.471+00:00,The Weeknd,Save Your Tears,Synthpop / R&B,215799,trackdone,3.597,False,3.63,False,2,0,Thursday,False
+2026-04-02 07:08:03.489+00:00,The Weeknd,Save Your Tears,Synthpop / R&B,182543,trackdone,3.042,False,559.07,True,3,10,Thursday,False
+2026-04-02 07:12:24.091+00:00,Radiohead,Creep,Alternative Rock,256483,trackdone,4.275,False,4.34,False,3,10,Thursday,False
+2026-04-02 07:16:37.010+00:00,Tame Impala,Borderline,Indie / Psychedelic,247174,trackdone,4.12,False,4.22,False,3,10,Thursday,False
+2026-04-02 07:20:36.735+00:00,Mabel Matiz,Öyle Kolaysa,Türkçe Pop,233406,trackdone,3.89,False,4.0,False,3,10,Thursday,False
+2026-04-02 07:23:23.638+00:00,Ceza,Yerli Plaka,Türkçe Rap,163356,trackdone,2.723,False,2.78,False,3,10,Thursday,False
+2026-04-02 07:26:44.128+00:00,Ceza,Suspus,Türkçe Rap,196006,trackdone,3.267,False,3.34,False,3,10,Thursday,False
+2026-04-02 07:29:14.209+00:00,Mabel Matiz,Öyle Kolaysa,Türkçe Pop,145256,trackdone,2.421,False,2.5,False,3,10,Thursday,False
+2026-04-02 07:29:28.114+00:00,Arctic Monkeys,Snap Out of It,Indie Rock,7702,fwdbtn,0.128,True,0.23,False,3,10,Thursday,False
+2026-04-02 07:33:17.536+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,221965,trackdone,3.699,False,3.82,False,3,10,Thursday,False
+2026-04-02 07:37:10.473+00:00,Sezen Aksu,Gülümse,Türkçe Pop,229371,trackdone,3.823,False,3.88,False,3,10,Thursday,False
+2026-04-02 07:41:30.449+00:00,Radiohead,Karma Police,Alternative Rock,256101,trackdone,4.268,False,4.33,False,3,10,Thursday,False
+2026-04-02 07:44:36.886+00:00,Ólafur Arnalds,Brot,Instrumental / Focus,179099,trackdone,2.985,False,3.11,False,3,10,Thursday,False
+2026-04-02 07:44:51.311+00:00,Ezhel,Geceler,Türkçe Rap,12891,fwdbtn,0.215,True,0.24,False,3,10,Thursday,False
+2026-04-02 13:48:38.287+00:00,Mabel Matiz,Numaracı,Türkçe Pop,162736,trackdone,2.712,False,363.78,True,4,16,Thursday,False
+2026-04-02 13:51:19.682+00:00,Radiohead,No Surprises,Alternative Rock,155590,trackdone,2.593,False,2.69,False,4,16,Thursday,False
+2026-04-02 13:54:40.077+00:00,Daft Punk,Veridis Quo,Electronic,197084,trackdone,3.285,False,3.34,False,4,16,Thursday,False
+2026-04-02 13:57:32.257+00:00,Duman,Senden Daha Güzel,Türkçe Rock,167229,trackdone,2.787,False,2.87,False,4,16,Thursday,False
+2026-04-02 14:01:20.216+00:00,Daft Punk,Get Lucky,Electronic,220377,trackdone,3.673,False,3.8,False,4,17,Thursday,False
+2026-04-02 14:04:34.798+00:00,Arctic Monkeys,R U Mine?,Indie Rock,192458,trackdone,3.208,False,3.24,False,4,17,Thursday,False
+2026-04-02 14:08:40.127+00:00,Radiohead,No Surprises,Alternative Rock,239921,trackdone,3.999,False,4.09,False,4,17,Thursday,False
+2026-04-02 14:12:25.838+00:00,Tame Impala,Borderline,Indie / Psychedelic,224031,trackdone,3.734,False,3.76,False,4,17,Thursday,False
+2026-04-02 14:15:29.695+00:00,Daft Punk,Instant Crush,Electronic,177483,trackdone,2.958,False,3.06,False,4,17,Thursday,False
+2026-04-02 14:15:57.715+00:00,Arctic Monkeys,505,Indie Rock,23974,fwdbtn,0.4,True,0.47,False,4,17,Thursday,False
+2026-04-02 14:20:01.177+00:00,Ludovico Einaudi,Una Mattina,Instrumental / Focus,236571,trackdone,3.943,False,4.06,False,4,17,Thursday,False
+2026-04-02 14:23:14.960+00:00,Ólafur Arnalds,Saman,Instrumental / Focus,186497,trackdone,3.108,False,3.23,False,4,17,Thursday,False
+2026-04-02 14:26:12.235+00:00,The Weeknd,Blinding Lights,Synthpop / R&B,174599,trackdone,2.91,False,2.95,False,4,17,Thursday,False
+2026-04-02 14:29:59.591+00:00,Ólafur Arnalds,Near Light,Instrumental / Focus,221899,trackdone,3.698,False,3.79,False,4,17,Thursday,False
+2026-04-02 14:32:43.190+00:00,Tame Impala,Borderline,Indie / Psychedelic,156770,trackdone,2.613,False,2.73,False,4,17,Thursday,False
+2026-04-02 17:34:10.650+00:00,Duman,Öyle Dertli,Türkçe Rock,140883,trackdone,2.348,False,181.46,True,5,20,Thursday,False
+2026-04-02 17:38:11.542+00:00,Ólafur Arnalds,Brot,Instrumental / Focus,234430,trackdone,3.907,False,4.01,False,5,20,Thursday,False
+2026-04-02 17:41:55.624+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,219782,trackdone,3.663,False,3.73,False,5,20,Thursday,False
+2026-04-02 17:45:43.182+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,224619,trackdone,3.744,False,3.79,False,5,20,Thursday,False
+2026-04-02 17:49:41.758+00:00,Ceza,Holocaust,Türkçe Rap,233687,trackdone,3.895,False,3.98,False,5,20,Thursday,False
+2026-04-02 17:53:01.366+00:00,The Weeknd,Starboy,Synthpop / R&B,195069,trackdone,3.251,False,3.33,False,5,20,Thursday,False
+2026-04-02 17:56:30.874+00:00,Radiohead,Karma Police,Alternative Rock,208248,trackdone,3.471,False,3.49,False,5,20,Thursday,False
+2026-04-02 17:59:10.367+00:00,Tame Impala,The Less I Know The Better,Indie / Psychedelic,156775,trackdone,2.613,False,2.66,False,5,20,Thursday,False
+2026-04-02 18:01:48.187+00:00,Mabel Matiz,Fırtınadayım,Türkçe Pop,153743,trackdone,2.562,False,2.63,False,5,21,Thursday,False
+2026-04-02 18:05:33.976+00:00,Duman,Senden Daha Güzel,Türkçe Rock,220208,trackdone,3.67,False,3.76,False,5,21,Thursday,False
+2026-04-02 18:05:56.267+00:00,Ceza,Suspus,Türkçe Rap,15306,fwdbtn,0.255,True,0.37,False,5,21,Thursday,False
+2026-04-02 18:09:25.649+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,207828,trackdone,3.464,False,3.49,False,5,21,Thursday,False
+2026-04-02 18:13:22.470+00:00,Arctic Monkeys,Snap Out of It,Indie Rock,231799,trackdone,3.863,False,3.95,False,5,21,Thursday,False
+2026-04-02 18:17:03.593+00:00,Tame Impala,Let It Happen,Indie / Psychedelic,216166,trackdone,3.603,False,3.69,False,5,21,Thursday,False
+2026-04-02 18:20:31.655+00:00,Duman,Öyle Dertli,Türkçe Rock,206429,trackdone,3.44,False,3.47,False,5,21,Thursday,False
+2026-04-03 01:22:48.168+00:00,Tame Impala,Borderline,Indie / Psychedelic,11294,fwdbtn,0.188,True,422.28,True,6,4,Friday,False
+2026-04-03 01:22:56.339+00:00,The Weeknd,Save Your Tears,Synthpop / R&B,4739,fwdbtn,0.079,True,0.14,False,6,4,Friday,False
+2026-04-03 01:26:16.624+00:00,Tame Impala,Let It Happen,Indie / Psychedelic,192406,trackdone,3.207,False,3.34,False,6,4,Friday,False
+2026-04-03 01:29:05.309+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,165750,trackdone,2.762,False,2.81,False,6,4,Friday,False
+2026-04-03 01:32:22.280+00:00,Tame Impala,Let It Happen,Indie / Psychedelic,189023,trackdone,3.15,False,3.28,False,6,4,Friday,False
+2026-04-03 01:36:25.930+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,242408,trackdone,4.04,False,4.06,False,6,4,Friday,False
+2026-04-03 01:36:42.295+00:00,Ludovico Einaudi,Una Mattina,Instrumental / Focus,9614,fwdbtn,0.16,True,0.27,False,6,4,Friday,False
+2026-04-03 01:39:16.280+00:00,The Weeknd,Save Your Tears,Synthpop / R&B,146996,trackdone,2.45,False,2.57,False,6,4,Friday,False
+2026-04-03 01:42:17.469+00:00,Ólafur Arnalds,Saman,Instrumental / Focus,173766,trackdone,2.896,False,3.02,False,6,4,Friday,False
+2026-04-03 01:45:16.740+00:00,Arctic Monkeys,505,Indie Rock,175231,trackdone,2.921,False,2.99,False,6,4,Friday,False
+2026-04-03 01:48:58.052+00:00,Ludovico Einaudi,Experience,Instrumental / Focus,219429,trackdone,3.657,False,3.69,False,6,4,Friday,False
+2026-04-03 01:52:29.430+00:00,Ólafur Arnalds,Near Light,Instrumental / Focus,206843,trackdone,3.447,False,3.52,False,6,4,Friday,False
+2026-04-03 01:56:31.469+00:00,Ceza,Suspus,Türkçe Rap,234067,trackdone,3.901,False,4.03,False,6,4,Friday,False
+2026-04-03 02:00:15.050+00:00,Ólafur Arnalds,Brot,Instrumental / Focus,219717,trackdone,3.662,False,3.73,False,6,5,Friday,False
+2026-04-03 02:03:27.741+00:00,Arctic Monkeys,505,Indie Rock,188766,trackdone,3.146,False,3.21,False,6,5,Friday,False
+2026-04-03 12:00:11.117+00:00,Ólafur Arnalds,Brot,Instrumental / Focus,160036,trackdone,2.667,False,596.72,True,7,15,Friday,False
+2026-04-03 12:00:17.404+00:00,Mor ve Ötesi,Deli,Türkçe Rock,4545,fwdbtn,0.076,True,0.1,False,7,15,Friday,False
+2026-04-03 12:02:54.609+00:00,Ezhel,Margiela,Türkçe Rap,150805,trackdone,2.513,False,2.62,False,7,15,Friday,False
+2026-04-03 12:06:47.169+00:00,Daft Punk,Instant Crush,Electronic,226683,trackdone,3.778,False,3.88,False,7,15,Friday,False
+2026-04-03 12:07:08.273+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,15085,fwdbtn,0.251,True,0.35,False,7,15,Friday,False
+2026-04-03 12:09:54.929+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,159352,trackdone,2.656,False,2.78,False,7,15,Friday,False
+2026-04-03 12:13:22.620+00:00,Ólafur Arnalds,Brot,Instrumental / Focus,200125,trackdone,3.335,False,3.46,False,7,15,Friday,False
+2026-04-03 12:13:34.756+00:00,Ezhel,Margiela,Türkçe Rap,7655,fwdbtn,0.128,True,0.2,False,7,15,Friday,False
+2026-04-03 20:51:50.457+00:00,Radiohead,No Surprises,Alternative Rock,193538,trackdone,3.226,False,518.26,True,8,23,Friday,False
+2026-04-03 20:54:58.850+00:00,Ceza,Yerli Plaka,Türkçe Rap,185722,trackdone,3.095,False,3.14,False,8,23,Friday,False
+2026-04-03 20:58:00.816+00:00,Mabel Matiz,Öyle Kolaysa,Türkçe Pop,176181,trackdone,2.936,False,3.03,False,8,23,Friday,False
+2026-04-03 21:01:41.699+00:00,The Weeknd,Starboy,Synthpop / R&B,215633,trackdone,3.594,False,3.68,False,8,0,Saturday,True
+2026-04-03 21:02:02.099+00:00,Ceza,Yerli Plaka,Türkçe Rap,12683,fwdbtn,0.211,True,0.34,False,8,0,Saturday,True
+2026-04-03 21:04:36.014+00:00,Radiohead,No Surprises,Alternative Rock,150517,trackdone,2.509,False,2.57,False,8,0,Saturday,True
+2026-04-03 21:07:13.546+00:00,Duman,Kufi,Türkçe Rock,154160,trackdone,2.569,False,2.63,False,8,0,Saturday,True
+2026-04-03 21:11:32.536+00:00,Mor ve Ötesi,Deli,Türkçe Rock,255427,trackdone,4.257,False,4.32,False,8,0,Saturday,True
+2026-04-03 21:15:46.030+00:00,Ezhel,Felaket,Türkçe Rap,249029,trackdone,4.15,False,4.22,False,8,0,Saturday,True
+2026-04-03 21:19:34.195+00:00,Sezen Aksu,Gülümse,Türkçe Pop,223964,trackdone,3.733,False,3.8,False,8,0,Saturday,True
+2026-04-04 01:07:53.340+00:00,Radiohead,No Surprises,Alternative Rock,256301,trackdone,4.272,False,228.32,True,9,4,Saturday,True
+2026-04-04 01:11:49.617+00:00,The Weeknd,Save Your Tears,Synthpop / R&B,233450,trackdone,3.891,False,3.94,False,9,4,Saturday,True
+2026-04-04 01:15:42.166+00:00,The Weeknd,Blinding Lights,Synthpop / R&B,226026,trackdone,3.767,False,3.88,False,9,4,Saturday,True
+2026-04-04 01:19:02.247+00:00,Ludovico Einaudi,Una Mattina,Instrumental / Focus,193923,trackdone,3.232,False,3.33,False,9,4,Saturday,True
+2026-04-04 01:21:56.469+00:00,Sezen Aksu,Gülümse,Türkçe Pop,172668,trackdone,2.878,False,2.9,False,9,4,Saturday,True
+2026-04-04 01:24:32.164+00:00,Sezen Aksu,Gülümse,Türkçe Pop,151566,trackdone,2.526,False,2.59,False,9,4,Saturday,True
+2026-04-04 01:28:42.369+00:00,Sezen Aksu,Tükeneceğiz,Türkçe Pop,248312,trackdone,4.139,False,4.17,False,9,4,Saturday,True
+2026-04-04 01:29:03.235+00:00,Ólafur Arnalds,Saman,Instrumental / Focus,14938,fwdbtn,0.249,True,0.35,False,9,4,Saturday,True
+2026-04-04 01:29:18.142+00:00,Tame Impala,Let It Happen,Indie / Psychedelic,8856,fwdbtn,0.148,True,0.25,False,9,4,Saturday,True
+2026-04-04 01:32:21.516+00:00,Sezen Aksu,Firuze,Türkçe Pop,176714,trackdone,2.945,False,3.06,False,9,4,Saturday,True
+2026-04-04 01:35:55.850+00:00,Sezen Aksu,Gülümse,Türkçe Pop,209506,trackdone,3.492,False,3.57,False,9,4,Saturday,True
+2026-04-04 01:36:08.334+00:00,Daft Punk,Veridis Quo,Electronic,8242,fwdbtn,0.137,True,0.21,False,9,4,Saturday,True
+2026-04-04 01:40:12.263+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,242793,trackdone,4.047,False,4.07,False,9,4,Saturday,True
+2026-04-04 01:44:07.734+00:00,Ludovico Einaudi,Una Mattina,Instrumental / Focus,231022,trackdone,3.85,False,3.92,False,9,4,Saturday,True
+2026-04-04 10:37:22.745+00:00,Radiohead,Creep,Alternative Rock,191851,trackdone,3.198,False,533.25,True,10,13,Saturday,True
+2026-04-04 10:41:00.003+00:00,Ólafur Arnalds,Saman,Instrumental / Focus,215277,trackdone,3.588,False,3.62,False,10,13,Saturday,True
+2026-04-04 10:44:31.756+00:00,Tame Impala,The Less I Know The Better,Indie / Psychedelic,210091,trackdone,3.502,False,3.53,False,10,13,Saturday,True
+2026-04-04 10:48:15.138+00:00,Arctic Monkeys,Snap Out of It,Indie Rock,217981,trackdone,3.633,False,3.72,False,10,13,Saturday,True
+2026-04-04 10:50:51.573+00:00,Ludovico Einaudi,Experience,Instrumental / Focus,150133,trackdone,2.502,False,2.61,False,10,13,Saturday,True
+2026-04-04 10:54:07.977+00:00,Ólafur Arnalds,Saman,Instrumental / Focus,189896,trackdone,3.165,False,3.27,False,10,13,Saturday,True
+2026-04-04 10:56:35.226+00:00,Duman,Her Şeyi Yak,Türkçe Rock,144993,trackdone,2.417,False,2.45,False,10,13,Saturday,True
+2026-04-04 10:59:56.821+00:00,Radiohead,No Surprises,Alternative Rock,199278,trackdone,3.321,False,3.36,False,10,13,Saturday,True
+2026-04-04 11:00:14.361+00:00,Ludovico Einaudi,Nuvole Bianche,Instrumental / Focus,11916,fwdbtn,0.199,True,0.29,False,10,14,Saturday,True
+2026-04-04 11:02:57.446+00:00,Ludovico Einaudi,Nuvole Bianche,Instrumental / Focus,157342,trackdone,2.622,False,2.72,False,10,14,Saturday,True
+2026-04-04 11:05:32.080+00:00,Ólafur Arnalds,Saman,Instrumental / Focus,152408,trackdone,2.54,False,2.58,False,10,14,Saturday,True
+2026-04-04 11:09:09.151+00:00,Ólafur Arnalds,Near Light,Instrumental / Focus,210517,trackdone,3.509,False,3.62,False,10,14,Saturday,True
+2026-04-04 11:11:52.721+00:00,Ludovico Einaudi,Experience,Instrumental / Focus,160471,trackdone,2.675,False,2.73,False,10,14,Saturday,True
+2026-04-04 22:24:26.577+00:00,The Weeknd,Starboy,Synthpop / R&B,209727,trackdone,3.495,False,672.56,True,11,1,Sunday,True
+2026-04-04 22:27:33.488+00:00,Ludovico Einaudi,Nuvole Bianche,Instrumental / Focus,181624,trackdone,3.027,False,3.12,False,11,1,Sunday,True
+2026-04-04 22:31:07.460+00:00,Arctic Monkeys,R U Mine?,Indie Rock,210909,trackdone,3.515,False,3.57,False,11,1,Sunday,True
+2026-04-04 22:33:32.256+00:00,Mor ve Ötesi,Deli,Türkçe Rock,142736,trackdone,2.379,False,2.41,False,11,1,Sunday,True
+2026-04-04 22:34:03.188+00:00,Ólafur Arnalds,Near Light,Instrumental / Focus,27005,fwdbtn,0.45,True,0.52,False,11,1,Sunday,True
+2026-04-04 22:37:25.333+00:00,Radiohead,Karma Police,Alternative Rock,197876,trackdone,3.298,False,3.37,False,11,1,Sunday,True
+2026-04-04 22:41:20.715+00:00,Sezen Aksu,Gülümse,Türkçe Pop,233928,trackdone,3.899,False,3.92,False,11,1,Sunday,True
+2026-04-04 22:43:53.572+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,149927,trackdone,2.499,False,2.55,False,11,1,Sunday,True
+2026-04-04 22:47:17.667+00:00,Daft Punk,Instant Crush,Electronic,198398,trackdone,3.307,False,3.4,False,11,1,Sunday,True
+2026-04-04 22:50:40.639+00:00,Ludovico Einaudi,Una Mattina,Instrumental / Focus,198884,trackdone,3.315,False,3.38,False,11,1,Sunday,True
+2026-04-04 22:54:55.305+00:00,Ezhel,Margiela,Türkçe Rap,252539,trackdone,4.209,False,4.24,False,11,1,Sunday,True
+2026-04-04 22:58:28.707+00:00,Tame Impala,Borderline,Indie / Psychedelic,208607,trackdone,3.477,False,3.56,False,11,1,Sunday,True
+2026-04-04 23:01:52.178+00:00,The Weeknd,Save Your Tears,Synthpop / R&B,196818,trackdone,3.28,False,3.39,False,11,2,Sunday,True
+2026-04-04 23:04:51.891+00:00,Daft Punk,Get Lucky,Electronic,172037,trackdone,2.867,False,3.0,False,11,2,Sunday,True
+2026-04-04 23:07:56.494+00:00,The Weeknd,Starboy,Synthpop / R&B,179788,trackdone,2.996,False,3.08,False,11,2,Sunday,True
+2026-04-04 23:11:25.922+00:00,Sezen Aksu,Firuze,Türkçe Pop,202480,trackdone,3.375,False,3.49,False,11,2,Sunday,True
+2026-04-04 23:14:41.582+00:00,The Weeknd,Starboy,Synthpop / R&B,192669,trackdone,3.211,False,3.26,False,11,2,Sunday,True
+2026-04-05 00:17:41.806+00:00,Ludovico Einaudi,Una Mattina,Instrumental / Focus,239155,trackdone,3.986,False,63.0,True,12,3,Sunday,True
+2026-04-05 00:21:54.144+00:00,Tame Impala,The Less I Know The Better,Indie / Psychedelic,247539,trackdone,4.126,False,4.21,False,12,3,Sunday,True
+2026-04-05 00:24:34.088+00:00,Mabel Matiz,Öyle Kolaysa,Türkçe Pop,156829,trackdone,2.614,False,2.67,False,12,3,Sunday,True
+2026-04-05 00:28:03.781+00:00,Tame Impala,The Less I Know The Better,Indie / Psychedelic,206484,trackdone,3.441,False,3.49,False,12,3,Sunday,True
+2026-04-05 00:30:42.471+00:00,Ceza,Holocaust,Türkçe Rap,153029,trackdone,2.55,False,2.64,False,12,3,Sunday,True
+2026-04-05 00:31:04.436+00:00,Mor ve Ötesi,Deli,Türkçe Rock,20133,fwdbtn,0.336,True,0.37,False,12,3,Sunday,True
+2026-04-05 00:34:00.891+00:00,Ólafur Arnalds,Saman,Instrumental / Focus,173748,trackdone,2.896,False,2.94,False,12,3,Sunday,True
+2026-04-05 00:34:26.829+00:00,Mabel Matiz,Fırtınadayım,Türkçe Pop,19826,fwdbtn,0.33,True,0.43,False,12,3,Sunday,True
+2026-04-05 00:38:21.639+00:00,Duman,Öyle Dertli,Türkçe Rock,227239,trackdone,3.787,False,3.91,False,12,3,Sunday,True
+2026-04-05 10:03:59.869+00:00,Ludovico Einaudi,Nuvole Bianche,Instrumental / Focus,152928,trackdone,2.549,False,565.64,True,13,13,Sunday,True
+2026-04-05 10:08:17.616+00:00,Ceza,Yerli Plaka,Türkçe Rap,249921,trackdone,4.165,False,4.3,False,13,13,Sunday,True
+2026-04-05 10:11:07.896+00:00,Radiohead,Karma Police,Alternative Rock,167625,trackdone,2.794,False,2.84,False,13,13,Sunday,True
+2026-04-05 10:13:34.373+00:00,Ceza,Yerli Plaka,Türkçe Rap,144489,trackdone,2.408,False,2.44,False,13,13,Sunday,True
+2026-04-05 10:17:05.782+00:00,Ólafur Arnalds,Saman,Instrumental / Focus,206582,trackdone,3.443,False,3.52,False,13,13,Sunday,True
+2026-04-05 10:20:13.461+00:00,Tame Impala,Borderline,Indie / Psychedelic,184510,trackdone,3.075,False,3.13,False,13,13,Sunday,True
+2026-04-05 10:24:17.255+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,239574,trackdone,3.993,False,4.06,False,13,13,Sunday,True
+2026-04-05 10:28:21.987+00:00,Şebnem Ferah,Sil Baştan,Türkçe Rock,236990,trackdone,3.95,False,4.08,False,13,13,Sunday,True
+2026-04-05 14:51:41.777+00:00,Ludovico Einaudi,Una Mattina,Instrumental / Focus,254347,trackdone,4.239,False,263.33,True,14,17,Sunday,True
+2026-04-05 14:54:42.040+00:00,Ólafur Arnalds,Near Light,Instrumental / Focus,174910,trackdone,2.915,False,3.0,False,14,17,Sunday,True
+2026-04-05 14:58:11.184+00:00,Ludovico Einaudi,Una Mattina,Instrumental / Focus,201806,trackdone,3.363,False,3.49,False,14,17,Sunday,True
+2026-04-05 15:01:09.838+00:00,Ólafur Arnalds,Near Light,Instrumental / Focus,170715,trackdone,2.845,False,2.98,False,14,18,Sunday,True
+2026-04-05 15:05:24.427+00:00,Ludovico Einaudi,Nuvole Bianche,Instrumental / Focus,252325,trackdone,4.205,False,4.24,False,14,18,Sunday,True
+2026-04-05 15:08:08.911+00:00,Ludovico Einaudi,Una Mattina,Instrumental / Focus,159752,trackdone,2.663,False,2.74,False,14,18,Sunday,True
+2026-04-05 16:26:28.907+00:00,Ludovico Einaudi,Nuvole Bianche,Instrumental / Focus,192211,trackdone,3.204,False,78.33,True,15,19,Sunday,True
+2026-04-05 16:30:50.052+00:00,Tame Impala,The Less I Know The Better,Indie / Psychedelic,259085,trackdone,4.318,False,4.35,False,15,19,Sunday,True
+2026-04-05 16:34:58.689+00:00,Tame Impala,Let It Happen,Indie / Psychedelic,247001,trackdone,4.117,False,4.14,False,15,19,Sunday,True
+2026-04-05 16:35:27.574+00:00,Daft Punk,Instant Crush,Electronic,21966,fwdbtn,0.366,True,0.48,False,15,19,Sunday,True
+2026-04-05 16:39:37.032+00:00,Radiohead,Creep,Alternative Rock,246895,trackdone,4.115,False,4.16,False,15,19,Sunday,True
+2026-04-05 16:43:46.056+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,247213,trackdone,4.12,False,4.15,False,15,19,Sunday,True
+2026-04-05 16:47:12.605+00:00,The Weeknd,Blinding Lights,Synthpop / R&B,202263,trackdone,3.371,False,3.44,False,15,19,Sunday,True
+2026-04-05 16:50:11.670+00:00,Radiohead,No Surprises,Alternative Rock,177911,trackdone,2.965,False,2.98,False,15,19,Sunday,True
+2026-04-06 02:19:54.940+00:00,Duman,Öyle Dertli,Türkçe Rock,219399,trackdone,3.657,False,569.72,True,16,5,Monday,False
+2026-04-06 02:23:06.982+00:00,Ólafur Arnalds,Near Light,Instrumental / Focus,184838,trackdone,3.081,False,3.2,False,16,5,Monday,False
+2026-04-06 02:25:44.474+00:00,Ludovico Einaudi,Nuvole Bianche,Instrumental / Focus,151336,trackdone,2.522,False,2.62,False,16,5,Monday,False
+2026-04-06 02:29:37.747+00:00,Daft Punk,Veridis Quo,Electronic,229614,trackdone,3.827,False,3.89,False,16,5,Monday,False
+2026-04-06 02:32:30.279+00:00,Arctic Monkeys,R U Mine?,Indie Rock,171495,trackdone,2.858,False,2.88,False,16,5,Monday,False
+2026-04-06 02:36:50.330+00:00,Duman,Her Şeyi Yak,Türkçe Rock,252417,trackdone,4.207,False,4.33,False,16,5,Monday,False
+2026-04-06 02:39:40.469+00:00,Ceza,Holocaust,Türkçe Rap,168916,trackdone,2.815,False,2.84,False,16,5,Monday,False
+2026-04-06 02:42:16.672+00:00,Arctic Monkeys,505,Indie Rock,154730,trackdone,2.579,False,2.6,False,16,5,Monday,False
+2026-04-06 12:51:01.293+00:00,Daft Punk,Get Lucky,Electronic,158394,trackdone,2.64,False,608.74,True,17,15,Monday,False
+2026-04-06 12:53:46.375+00:00,Ceza,Yerli Plaka,Türkçe Rap,161512,trackdone,2.692,False,2.75,False,17,15,Monday,False
+2026-04-06 12:57:24.339+00:00,Mabel Matiz,Numaracı,Türkçe Pop,211925,trackdone,3.532,False,3.63,False,17,15,Monday,False
+2026-04-06 13:01:30.599+00:00,Tame Impala,Let It Happen,Indie / Psychedelic,244947,trackdone,4.082,False,4.1,False,17,16,Monday,False
+2026-04-06 13:04:17.134+00:00,Arctic Monkeys,Snap Out of It,Indie Rock,163572,trackdone,2.726,False,2.78,False,17,16,Monday,False
+2026-04-06 13:07:22.358+00:00,Ólafur Arnalds,Near Light,Instrumental / Focus,177238,trackdone,2.954,False,3.09,False,17,16,Monday,False
+2026-04-06 13:11:18.888+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,233288,trackdone,3.888,False,3.94,False,17,16,Monday,False
+2026-04-06 13:15:40.002+00:00,Mor ve Ötesi,Deli,Türkçe Rock,256619,trackdone,4.277,False,4.35,False,17,16,Monday,False
+2026-04-06 13:19:04.125+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,200088,trackdone,3.335,False,3.4,False,17,16,Monday,False
+2026-04-06 13:21:48.932+00:00,Ólafur Arnalds,Saman,Instrumental / Focus,157267,trackdone,2.621,False,2.75,False,17,16,Monday,False
+2026-04-06 13:21:55.485+00:00,Ezhel,Geceler,Türkçe Rap,4334,fwdbtn,0.072,True,0.11,False,17,16,Monday,False
+2026-04-06 13:24:45.998+00:00,Ludovico Einaudi,Una Mattina,Instrumental / Focus,167558,trackdone,2.793,False,2.84,False,17,16,Monday,False
+2026-04-06 13:27:22.941+00:00,The Weeknd,Starboy,Synthpop / R&B,155818,trackdone,2.597,False,2.62,False,17,16,Monday,False
+2026-04-06 13:31:12.045+00:00,Sezen Aksu,Gülümse,Türkçe Pop,221319,trackdone,3.689,False,3.82,False,17,16,Monday,False
+2026-04-06 13:33:49.739+00:00,Ludovico Einaudi,Experience,Instrumental / Focus,154619,trackdone,2.577,False,2.63,False,17,16,Monday,False
+2026-04-06 13:37:17.990+00:00,Şebnem Ferah,Sil Baştan,Türkçe Rock,200759,trackdone,3.346,False,3.47,False,17,16,Monday,False
+2026-04-06 22:13:51.642+00:00,Radiohead,Karma Police,Alternative Rock,209733,trackdone,3.496,False,516.56,True,18,1,Tuesday,False
+2026-04-06 22:16:42.665+00:00,Daft Punk,Instant Crush,Electronic,163973,trackdone,2.733,False,2.85,False,18,1,Tuesday,False
+2026-04-06 22:17:07.138+00:00,Ludovico Einaudi,Experience,Instrumental / Focus,23298,fwdbtn,0.388,True,0.41,False,18,1,Tuesday,False
+2026-04-06 22:20:54.576+00:00,Ezhel,Margiela,Türkçe Rap,225848,trackdone,3.764,False,3.79,False,18,1,Tuesday,False
+2026-04-06 22:24:50.035+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,228678,trackdone,3.811,False,3.92,False,18,1,Tuesday,False
+2026-04-06 22:25:01.216+00:00,Tame Impala,Let It Happen,Indie / Psychedelic,7145,fwdbtn,0.119,True,0.19,False,18,1,Tuesday,False

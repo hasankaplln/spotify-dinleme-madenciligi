@@ -1,0 +1,2 @@
+collected_at_utc,source,snapshot_file,row_count,unique_artists,sha256_prefix
+2026-11-06T09:48:29Z,spotify_export_and_api_demo,snapshot_spotify_export_and_api_demo_20261106_094829.json,5500,14,9fa93556c2e39b82
