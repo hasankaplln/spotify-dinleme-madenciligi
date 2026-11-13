@@ -1,251 +1,251 @@
-user_id,user_hash,user_archetype,played_at,artist_name,track_name,primary_genre,ms_played,loved,source,gap_minutes,is_new_session,session_id,minutes_played,is_skipped,hour,day_of_week,is_weekend
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 08:48:25+00:00,Duman,Her Şeyi Yak,Türkçe Rock,198000,0,lastfm_25users,0.0,True,1,3.3,False,11,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 08:52:32+00:00,Duman,Her Şeyi Yak,Türkçe Rock,244000,0,lastfm_25users,4.12,False,1,4.067,False,11,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 08:56:22+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,226000,1,lastfm_25users,3.83,False,1,3.767,False,11,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 08:59:10+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,160000,0,lastfm_25users,2.8,False,1,2.667,False,11,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 09:03:38+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,257000,0,lastfm_25users,4.47,False,1,4.283,False,12,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 09:07:42+00:00,Duman,Senden Daha Güzel,Türkçe Rock,233000,0,lastfm_25users,4.07,False,1,3.883,False,12,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 09:11:46+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,236000,0,lastfm_25users,4.07,False,1,3.933,False,12,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 09:14:42+00:00,Duman,Kufi,Türkçe Rock,164000,1,lastfm_25users,2.93,False,1,2.733,False,12,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 09:18:09+00:00,Gorillaz,Clint Eastwood,Alternative,199000,0,lastfm_25users,3.45,False,1,3.317,False,12,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 09:21:23+00:00,Şebnem Ferah,Sil Baştan,Türkçe Rock,190000,0,lastfm_25users,3.23,False,1,3.167,False,12,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 09:25:46+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,251000,0,lastfm_25users,4.38,False,1,4.183,False,12,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 17:26:55+00:00,Arctic Monkeys,R U Mine?,Indie Rock,240000,0,lastfm_25users,481.15,True,2,4.0,False,20,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 17:30:20+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,198000,0,lastfm_25users,3.42,False,2,3.3,False,20,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 17:33:17+00:00,Radiohead,Karma Police,Alternative Rock,174000,0,lastfm_25users,2.95,False,2,2.9,False,20,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 17:37:01+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,211000,0,lastfm_25users,3.73,False,2,3.517,False,20,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 17:39:51+00:00,Arctic Monkeys,R U Mine?,Indie Rock,157000,0,lastfm_25users,2.83,False,2,2.617,False,20,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 17:43:57+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,241000,0,lastfm_25users,4.1,False,2,4.017,False,20,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 17:47:40+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,219000,0,lastfm_25users,3.72,False,2,3.65,False,20,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 17:51:44+00:00,Ludovico Einaudi,Una Mattina,Classical / Focus,233000,0,lastfm_25users,4.07,False,2,3.883,False,20,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 22:37:07+00:00,Duman,Senden Daha Güzel,Türkçe Rock,256000,0,lastfm_25users,285.38,True,3,4.267,False,1,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 22:41:25+00:00,Sagopa Kajmer,Baytar,Türkçe Rap,248000,1,lastfm_25users,4.3,False,3,4.133,False,1,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 22:45:31+00:00,Glass Animals,Youth,Indie Electronic,235000,0,lastfm_25users,4.1,False,3,3.917,False,1,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 22:48:28+00:00,Radiohead,No Surprises,Alternative Rock,171000,0,lastfm_25users,2.95,False,3,2.85,False,1,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 04:48:11+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,154000,0,lastfm_25users,359.72,True,4,2.567,False,7,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 04:51:08+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,166000,0,lastfm_25users,2.95,False,4,2.767,False,7,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 04:55:06+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,225000,0,lastfm_25users,3.97,False,4,3.75,False,7,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 04:59:03+00:00,Duman,Senden Daha Güzel,Türkçe Rock,231000,0,lastfm_25users,3.95,False,4,3.85,False,7,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 05:03:26+00:00,Radiohead,No Surprises,Alternative Rock,256000,1,lastfm_25users,4.38,False,4,4.267,False,8,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 05:06:44+00:00,Radiohead,No Surprises,Alternative Rock,185000,0,lastfm_25users,3.3,False,4,3.083,False,8,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 05:09:56+00:00,Duman,Her Şeyi Yak,Türkçe Rock,190000,0,lastfm_25users,3.2,False,4,3.167,False,8,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 05:13:29+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,201000,0,lastfm_25users,3.55,False,4,3.35,False,8,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 05:16:27+00:00,Arctic Monkeys,505,Indie Rock,170000,0,lastfm_25users,2.97,False,4,2.833,False,8,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 07:27:55+00:00,Arctic Monkeys,R U Mine?,Indie Rock,202000,0,lastfm_25users,131.47,True,5,3.367,False,10,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 07:30:58+00:00,Duman,Her Şeyi Yak,Türkçe Rock,174000,0,lastfm_25users,3.05,False,5,2.9,False,10,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 07:34:55+00:00,Şebnem Ferah,Sil Baştan,Türkçe Rock,223000,0,lastfm_25users,3.95,False,5,3.717,False,10,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 07:38:17+00:00,The xx,Angels,Indie Pop,198000,0,lastfm_25users,3.37,False,5,3.3,False,10,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 07:42:28+00:00,Radiohead,Creep,Alternative Rock,241000,1,lastfm_25users,4.18,False,5,4.017,False,10,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 07:46:18+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,227000,1,lastfm_25users,3.83,False,5,3.783,False,10,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 07:49:33+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,184000,0,lastfm_25users,3.25,False,5,3.067,False,10,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 07:53:41+00:00,Fazıl Say,Nazım,Classical,241000,0,lastfm_25users,4.13,False,5,4.017,False,10,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 07:57:51+00:00,Radiohead,No Surprises,Alternative Rock,238000,0,lastfm_25users,4.17,False,5,3.967,False,10,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 08:01:16+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,192000,0,lastfm_25users,3.42,False,5,3.2,False,11,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 08:04:22+00:00,Fazıl Say,Nazım,Classical,181000,0,lastfm_25users,3.1,False,5,3.017,False,11,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 08:08:17+00:00,Radiohead,No Surprises,Alternative Rock,225000,0,lastfm_25users,3.92,False,5,3.75,False,11,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 10:26:20+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,171000,0,lastfm_25users,138.05,True,6,2.85,False,13,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 10:29:02+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,150000,0,lastfm_25users,2.7,False,6,2.5,False,13,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 10:33:10+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,236000,1,lastfm_25users,4.13,False,6,3.933,False,13,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 10:37:01+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,223000,0,lastfm_25users,3.85,False,6,3.717,False,13,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 10:40:53+00:00,Arctic Monkeys,R U Mine?,Indie Rock,227000,0,lastfm_25users,3.87,False,6,3.783,False,13,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 10:44:57+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,235000,0,lastfm_25users,4.07,False,6,3.917,False,13,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 10:48:25+00:00,Glass Animals,Youth,Indie Electronic,200000,0,lastfm_25users,3.47,False,6,3.333,False,13,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 10:51:59+00:00,Kendrick Lamar,HUMBLE.,Hip-Hop,212000,1,lastfm_25users,3.57,False,6,3.533,False,13,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 10:54:49+00:00,Arctic Monkeys,505,Indie Rock,165000,0,lastfm_25users,2.83,False,6,2.75,False,13,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 10:57:38+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,162000,0,lastfm_25users,2.82,False,6,2.7,False,13,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 11:01:31+00:00,Duman,Kufi,Türkçe Rock,223000,0,lastfm_25users,3.88,False,6,3.717,False,14,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 11:05:05+00:00,Radiohead,Creep,Alternative Rock,201000,0,lastfm_25users,3.57,False,6,3.35,False,14,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 11:08:40+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,212000,0,lastfm_25users,3.58,False,6,3.533,False,14,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 20:32:28+00:00,Duman,Kufi,Türkçe Rock,219000,0,lastfm_25users,563.8,True,7,3.65,False,23,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 20:36:01+00:00,Radiohead,Creep,Alternative Rock,210000,0,lastfm_25users,3.55,False,7,3.5,False,23,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 20:39:44+00:00,Duman,Senden Daha Güzel,Türkçe Rock,211000,0,lastfm_25users,3.72,False,7,3.517,False,23,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 20:42:56+00:00,Mabel Matiz,Fırtınadayım,Türkçe Pop,183000,0,lastfm_25users,3.2,False,7,3.05,False,23,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 20:45:35+00:00,Radiohead,Creep,Alternative Rock,153000,0,lastfm_25users,2.65,False,7,2.55,False,23,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 20:49:07+00:00,Radiohead,Karma Police,Alternative Rock,198000,0,lastfm_25users,3.53,False,7,3.3,False,23,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 20:52:05+00:00,Tarkan,Dudu,Türkçe Pop,173000,0,lastfm_25users,2.97,False,7,2.883,False,23,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 20:55:33+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,194000,0,lastfm_25users,3.47,False,7,3.233,False,23,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 20:59:38+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,243000,0,lastfm_25users,4.08,False,7,4.05,False,23,Friday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 21:02:45+00:00,Şebnem Ferah,Sil Baştan,Türkçe Rock,175000,0,lastfm_25users,3.12,False,7,2.917,False,0,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:24:58+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,180000,0,lastfm_25users,82.22,True,8,3.0,False,1,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:28:07+00:00,Mabel Matiz,Antidepresan,Türkçe Pop,182000,0,lastfm_25users,3.15,False,8,3.033,False,1,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:31:52+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,222000,0,lastfm_25users,3.75,False,8,3.7,False,1,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:35:31+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,211000,1,lastfm_25users,3.65,False,8,3.517,False,1,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:39:41+00:00,The Weeknd,Save Your Tears,Synthpop / R&B,236000,0,lastfm_25users,4.17,False,8,3.933,False,1,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:43:31+00:00,Radiohead,No Surprises,Alternative Rock,223000,0,lastfm_25users,3.83,False,8,3.717,False,1,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:46:52+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,194000,0,lastfm_25users,3.35,False,8,3.233,False,1,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:50:57+00:00,Arctic Monkeys,505,Indie Rock,239000,0,lastfm_25users,4.08,False,8,3.983,False,1,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:53:51+00:00,Radiohead,Karma Police,Alternative Rock,168000,0,lastfm_25users,2.9,False,8,2.8,False,1,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:56:26+00:00,Duman,Kufi,Türkçe Rock,152000,0,lastfm_25users,2.58,False,8,2.533,False,1,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:59:17+00:00,Duman,Senden Daha Güzel,Türkçe Rock,159000,0,lastfm_25users,2.85,False,8,2.65,False,1,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 23:03:17+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,229000,0,lastfm_25users,4.0,False,8,3.817,False,2,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 23:06:48+00:00,Ezhel,Felaket,Türkçe Rap,200000,0,lastfm_25users,3.52,False,8,3.333,False,2,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 23:09:48+00:00,Hans Zimmer,Cornfield Chase,Soundtrack,167000,0,lastfm_25users,3.0,False,8,2.783,False,2,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 05:32:42+00:00,Ludovico Einaudi,Una Mattina,Classical / Focus,166000,1,lastfm_25users,382.9,True,9,2.767,False,8,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 05:36:36+00:00,Tarkan,Şımarık,Türkçe Pop,226000,1,lastfm_25users,3.9,False,9,3.767,False,8,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 05:39:59+00:00,Dua Lipa,Levitating,Pop,199000,0,lastfm_25users,3.38,False,9,3.317,False,8,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 05:43:15+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,191000,0,lastfm_25users,3.27,False,9,3.183,False,8,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 05:46:28+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,183000,0,lastfm_25users,3.22,False,9,3.05,False,8,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 05:50:16+00:00,Daft Punk,Get Lucky,Electronic,219000,0,lastfm_25users,3.8,False,9,3.65,False,8,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 05:53:39+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,189000,0,lastfm_25users,3.38,False,9,3.15,False,8,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 05:56:24+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,159000,0,lastfm_25users,2.75,False,9,2.65,False,8,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 05:59:12+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,162000,0,lastfm_25users,2.8,False,9,2.7,False,8,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 06:03:33+00:00,Radiohead,No Surprises,Alternative Rock,255000,1,lastfm_25users,4.35,False,9,4.25,False,9,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 06:07:50+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,249000,1,lastfm_25users,4.28,False,9,4.15,False,9,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 06:11:43+00:00,Şebnem Ferah,Sil Baştan,Türkçe Rock,226000,0,lastfm_25users,3.88,False,9,3.767,False,9,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 06:14:53+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,179000,0,lastfm_25users,3.17,False,9,2.983,False,9,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 06:19:14+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,256000,1,lastfm_25users,4.35,False,9,4.267,False,9,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 06:23:14+00:00,Kendrick Lamar,Not Like Us,Hip-Hop,235000,0,lastfm_25users,4.0,False,9,3.917,False,9,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:13:44+00:00,The Weeknd,Blinding Lights,Synthpop / R&B,199000,0,lastfm_25users,530.5,True,10,3.317,False,18,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:16:46+00:00,Kendrick Lamar,HUMBLE.,Hip-Hop,179000,0,lastfm_25users,3.03,False,10,2.983,False,18,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:19:33+00:00,Kendrick Lamar,Not Like Us,Hip-Hop,160000,0,lastfm_25users,2.78,False,10,2.667,False,18,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:23:45+00:00,Dua Lipa,Levitating,Pop,249000,0,lastfm_25users,4.2,False,10,4.15,False,18,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:27:16+00:00,Duman,Kufi,Türkçe Rock,200000,0,lastfm_25users,3.52,False,10,3.333,False,18,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:30:19+00:00,Travis Scott,SICKO MODE,Trap / Hip-Hop,172000,0,lastfm_25users,3.05,False,10,2.867,False,18,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:33:34+00:00,The Weeknd,Blinding Lights,Synthpop / R&B,183000,1,lastfm_25users,3.25,False,10,3.05,False,18,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:37:16+00:00,Arctic Monkeys,505,Indie Rock,213000,0,lastfm_25users,3.7,False,10,3.55,False,18,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:40:13+00:00,Dua Lipa,Don't Start Now,Pop,169000,0,lastfm_25users,2.95,False,10,2.817,False,18,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:44:19+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,244000,0,lastfm_25users,4.1,False,10,4.067,False,18,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:48:20+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,233000,0,lastfm_25users,4.02,False,10,3.883,False,18,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:52:19+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,229000,0,lastfm_25users,3.98,False,10,3.817,False,18,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:55:42+00:00,Arctic Monkeys,505,Indie Rock,197000,0,lastfm_25users,3.38,False,10,3.283,False,18,Saturday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 23:45:19+00:00,Radiohead,No Surprises,Alternative Rock,214000,0,lastfm_25users,469.62,True,11,3.567,False,2,Sunday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 23:49:10+00:00,Radiohead,Creep,Alternative Rock,221000,0,lastfm_25users,3.85,False,11,3.683,False,2,Sunday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 23:52:00+00:00,Ólafur Arnalds,Brot,Ambient / Focus,159000,0,lastfm_25users,2.83,False,11,2.65,False,2,Sunday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 23:55:27+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,195000,0,lastfm_25users,3.45,False,11,3.25,False,2,Sunday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 23:58:05+00:00,Ceza,Fark Var,Türkçe Rap,154000,0,lastfm_25users,2.63,False,11,2.567,False,2,Sunday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 06:16:21+00:00,Max Richter,November,Neoclassical,186000,0,lastfm_25users,378.27,True,12,3.1,False,9,Sunday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 06:19:16+00:00,Arctic Monkeys,505,Indie Rock,165000,0,lastfm_25users,2.92,False,12,2.75,False,9,Sunday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 06:22:01+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,161000,0,lastfm_25users,2.75,False,12,2.683,False,9,Sunday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 06:25:47+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,214000,0,lastfm_25users,3.77,False,12,3.567,False,9,Sunday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 06:28:40+00:00,Duman,Kufi,Türkçe Rock,168000,0,lastfm_25users,2.88,False,12,2.8,False,9,Sunday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 06:33:05+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,251000,0,lastfm_25users,4.42,False,12,4.183,False,9,Sunday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 13:51:22+00:00,Radiohead,No Surprises,Alternative Rock,188000,0,lastfm_25users,438.28,True,13,3.133,False,16,Sunday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 13:55:02+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,215000,1,lastfm_25users,3.67,False,13,3.583,False,16,Sunday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 13:57:37+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,152000,1,lastfm_25users,2.58,False,13,2.533,False,16,Sunday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 14:01:59+00:00,The Weeknd,Save Your Tears,Synthpop / R&B,255000,0,lastfm_25users,4.37,False,13,4.25,False,17,Sunday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 14:05:30+00:00,Şebnem Ferah,Sil Baştan,Türkçe Rock,203000,1,lastfm_25users,3.52,False,13,3.383,False,17,Sunday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 14:09:28+00:00,Gorillaz,Feel Good Inc.,Alternative,236000,0,lastfm_25users,3.97,False,13,3.933,False,17,Sunday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 14:12:12+00:00,Glass Animals,Heat Waves,Indie Electronic,159000,0,lastfm_25users,2.73,False,13,2.65,False,17,Sunday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 14:15:45+00:00,Radiohead,Creep,Alternative Rock,203000,0,lastfm_25users,3.55,False,13,3.383,False,17,Sunday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 14:19:15+00:00,Duman,Kufi,Türkçe Rock,203000,0,lastfm_25users,3.5,False,13,3.383,False,17,Sunday,True
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 01:39:56+00:00,Hans Zimmer,Day One,Soundtrack,212000,0,lastfm_25users,680.68,True,14,3.533,False,4,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 01:43:30+00:00,Duman,Kufi,Türkçe Rock,202000,0,lastfm_25users,3.57,False,14,3.367,False,4,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 01:46:43+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,179000,0,lastfm_25users,3.22,False,14,2.983,False,4,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 01:49:58+00:00,Travis Scott,goosebumps,Trap / Hip-Hop,186000,0,lastfm_25users,3.25,False,14,3.1,False,4,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 01:53:38+00:00,Kendrick Lamar,Not Like Us,Hip-Hop,207000,0,lastfm_25users,3.67,False,14,3.45,False,4,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 07:34:16+00:00,Radiohead,Karma Police,Alternative Rock,152000,0,lastfm_25users,340.63,True,15,2.533,False,10,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 07:38:18+00:00,Arctic Monkeys,R U Mine?,Indie Rock,240000,0,lastfm_25users,4.03,False,15,4.0,False,10,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 07:42:35+00:00,Radiohead,Creep,Alternative Rock,248000,0,lastfm_25users,4.28,False,15,4.133,False,10,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 07:45:25+00:00,Arctic Monkeys,505,Indie Rock,165000,0,lastfm_25users,2.83,False,15,2.75,False,10,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 07:49:01+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,210000,0,lastfm_25users,3.6,False,15,3.5,False,10,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 07:51:52+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,161000,0,lastfm_25users,2.85,False,15,2.683,False,10,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 07:55:38+00:00,Radiohead,Karma Police,Alternative Rock,223000,1,lastfm_25users,3.77,False,15,3.717,False,10,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 11:50:31+00:00,Sagopa Kajmer,Ateşten Gömlek,Türkçe Rap,222000,0,lastfm_25users,234.88,True,16,3.7,False,14,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 11:54:34+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,229000,0,lastfm_25users,4.05,False,16,3.817,False,14,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 11:58:34+00:00,Tarkan,Dudu,Türkçe Pop,234000,0,lastfm_25users,4.0,False,16,3.9,False,14,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 12:01:24+00:00,Kendrick Lamar,Not Like Us,Hip-Hop,161000,0,lastfm_25users,2.83,False,16,2.683,False,15,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 12:05:48+00:00,Şebnem Ferah,Sil Baştan,Türkçe Rock,250000,0,lastfm_25users,4.4,False,16,4.167,False,15,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 12:08:48+00:00,Radiohead,Creep,Alternative Rock,175000,0,lastfm_25users,3.0,False,16,2.917,False,15,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 13:17:28+00:00,Radiohead,No Surprises,Alternative Rock,211000,0,lastfm_25users,68.67,True,17,3.517,False,16,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 13:20:44+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,190000,0,lastfm_25users,3.27,False,17,3.167,False,16,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 13:24:52+00:00,Glass Animals,Youth,Indie Electronic,241000,0,lastfm_25users,4.13,False,17,4.017,False,16,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 13:29:04+00:00,Radiohead,Creep,Alternative Rock,238000,0,lastfm_25users,4.2,False,17,3.967,False,16,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 13:32:12+00:00,Arctic Monkeys,505,Indie Rock,184000,0,lastfm_25users,3.13,False,17,3.067,False,16,Monday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:02:24+00:00,Arctic Monkeys,505,Indie Rock,182000,0,lastfm_25users,690.2,True,18,3.033,False,4,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:06:03+00:00,Kendrick Lamar,DNA.,Hip-Hop,206000,0,lastfm_25users,3.65,False,18,3.433,False,4,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:09:15+00:00,Şebnem Ferah,Sil Baştan,Türkçe Rock,178000,0,lastfm_25users,3.2,False,18,2.967,False,4,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:13:31+00:00,Duman,Her Şeyi Yak,Türkçe Rock,252000,1,lastfm_25users,4.27,False,18,4.2,False,4,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:16:27+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,168000,0,lastfm_25users,2.93,False,18,2.8,False,4,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:19:06+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,154000,0,lastfm_25users,2.65,False,18,2.567,False,4,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:22:37+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,197000,0,lastfm_25users,3.52,False,18,3.283,False,4,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:26:59+00:00,Mabel Matiz,Numaracı,Türkçe Pop,259000,0,lastfm_25users,4.37,False,18,4.317,False,4,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:31:10+00:00,Duman,Senden Daha Güzel,Türkçe Rock,248000,0,lastfm_25users,4.18,False,18,4.133,False,4,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:35:14+00:00,Duman,Kufi,Türkçe Rock,232000,0,lastfm_25users,4.07,False,18,3.867,False,4,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:39:25+00:00,Sagopa Kajmer,Baytar,Türkçe Rap,247000,0,lastfm_25users,4.18,False,18,4.117,False,4,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 12:30:00+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,207000,0,lastfm_25users,650.58,True,19,3.45,False,15,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 12:33:06+00:00,Arctic Monkeys,R U Mine?,Indie Rock,184000,0,lastfm_25users,3.1,False,19,3.067,False,15,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 12:37:06+00:00,Şebnem Ferah,Sil Baştan,Türkçe Rock,234000,0,lastfm_25users,4.0,False,19,3.9,False,15,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 12:40:55+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,222000,0,lastfm_25users,3.82,False,19,3.7,False,15,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 12:44:19+00:00,Radiohead,Karma Police,Alternative Rock,191000,1,lastfm_25users,3.4,False,19,3.183,False,15,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 14:32:17+00:00,Ludovico Einaudi,Nuvole Bianche,Classical / Focus,232000,0,lastfm_25users,107.97,True,20,3.867,False,17,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 14:35:17+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,178000,0,lastfm_25users,3.0,False,20,2.967,False,17,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 14:39:44+00:00,The xx,Crystalised,Indie Pop,253000,0,lastfm_25users,4.45,False,20,4.217,False,17,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 14:42:42+00:00,Glass Animals,Gooey,Indie Electronic,176000,0,lastfm_25users,2.97,False,20,2.933,False,17,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 14:45:27+00:00,Duman,Kufi,Türkçe Rock,163000,0,lastfm_25users,2.75,False,20,2.717,False,17,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 14:49:41+00:00,Radiohead,No Surprises,Alternative Rock,241000,0,lastfm_25users,4.23,False,20,4.017,False,17,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 14:52:38+00:00,Duman,Kufi,Türkçe Rock,166000,0,lastfm_25users,2.95,False,20,2.767,False,17,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 14:55:33+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,169000,0,lastfm_25users,2.92,False,20,2.817,False,17,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 14:59:19+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,215000,0,lastfm_25users,3.77,False,20,3.583,False,17,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 15:03:27+00:00,Şebnem Ferah,Sil Baştan,Türkçe Rock,246000,1,lastfm_25users,4.13,False,20,4.1,False,18,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 15:06:23+00:00,Radiohead,No Surprises,Alternative Rock,171000,0,lastfm_25users,2.93,False,20,2.85,False,18,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 15:09:41+00:00,Radiohead,Karma Police,Alternative Rock,184000,0,lastfm_25users,3.3,False,20,3.067,False,18,Tuesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 00:42:05+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,256000,0,lastfm_25users,572.4,True,21,4.267,False,3,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 00:45:37+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,205000,0,lastfm_25users,3.53,False,21,3.417,False,3,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 00:48:36+00:00,Radiohead,No Surprises,Alternative Rock,165000,0,lastfm_25users,2.98,False,21,2.75,False,3,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 00:51:11+00:00,Radiohead,Karma Police,Alternative Rock,151000,0,lastfm_25users,2.58,False,21,2.517,False,3,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 00:54:11+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,175000,1,lastfm_25users,3.0,False,21,2.917,False,3,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 00:56:57+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,164000,0,lastfm_25users,2.77,False,21,2.733,False,3,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 01:00:55+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,224000,0,lastfm_25users,3.97,False,21,3.733,False,4,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 03:06:34+00:00,Sezen Aksu,Gülümse,Türkçe Pop,205000,0,lastfm_25users,125.65,True,22,3.417,False,6,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 03:10:31+00:00,Duman,Her Şeyi Yak,Türkçe Rock,226000,0,lastfm_25users,3.95,False,22,3.767,False,6,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 03:14:11+00:00,Duman,Her Şeyi Yak,Türkçe Rock,213000,0,lastfm_25users,3.67,False,22,3.55,False,6,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 03:17:15+00:00,Ludovico Einaudi,Nuvole Bianche,Classical / Focus,171000,1,lastfm_25users,3.07,False,22,2.85,False,6,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 03:21:15+00:00,Arctic Monkeys,505,Indie Rock,238000,0,lastfm_25users,4.0,False,22,3.967,False,6,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 03:25:06+00:00,Duman,Kufi,Türkçe Rock,228000,0,lastfm_25users,3.85,False,22,3.8,False,6,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 03:29:09+00:00,Duman,Kufi,Türkçe Rock,231000,0,lastfm_25users,4.05,False,22,3.85,False,6,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 05:41:01+00:00,Duman,Senden Daha Güzel,Türkçe Rock,163000,0,lastfm_25users,131.87,True,23,2.717,False,8,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 05:45:16+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,252000,0,lastfm_25users,4.25,False,23,4.2,False,8,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 05:48:43+00:00,Radiohead,No Surprises,Alternative Rock,193000,0,lastfm_25users,3.45,False,23,3.217,False,8,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 05:51:49+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,183000,0,lastfm_25users,3.1,False,23,3.05,False,8,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 05:55:20+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,203000,0,lastfm_25users,3.52,False,23,3.383,False,8,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 05:59:08+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,222000,1,lastfm_25users,3.8,False,23,3.7,False,8,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 06:03:31+00:00,Ludovico Einaudi,Experience,Classical / Focus,255000,0,lastfm_25users,4.38,False,23,4.25,False,9,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 06:06:46+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,181000,0,lastfm_25users,3.25,False,23,3.017,False,9,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 06:11:05+00:00,Radiohead,Karma Police,Alternative Rock,251000,0,lastfm_25users,4.32,False,23,4.183,False,9,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:10:39+00:00,Duman,Senden Daha Güzel,Türkçe Rock,211000,0,lastfm_25users,59.57,True,24,3.517,False,10,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:14:30+00:00,Radiohead,Creep,Alternative Rock,219000,0,lastfm_25users,3.85,False,24,3.65,False,10,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:17:22+00:00,Ludovico Einaudi,Una Mattina,Classical / Focus,161000,0,lastfm_25users,2.87,False,24,2.683,False,10,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:20:18+00:00,Kendrick Lamar,HUMBLE.,Hip-Hop,165000,0,lastfm_25users,2.93,False,24,2.75,False,10,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:23:36+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,196000,1,lastfm_25users,3.3,False,24,3.267,False,10,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:27:56+00:00,Arctic Monkeys,R U Mine?,Indie Rock,256000,0,lastfm_25users,4.33,False,24,4.267,False,10,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:31:35+00:00,Arctic Monkeys,505,Indie Rock,215000,0,lastfm_25users,3.65,False,24,3.583,False,10,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:35:58+00:00,Radiohead,Karma Police,Alternative Rock,252000,0,lastfm_25users,4.38,False,24,4.2,False,10,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:40:03+00:00,Duman,Her Şeyi Yak,Türkçe Rock,238000,1,lastfm_25users,4.08,False,24,3.967,False,10,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:43:34+00:00,Arctic Monkeys,R U Mine?,Indie Rock,201000,0,lastfm_25users,3.52,False,24,3.35,False,10,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:47:43+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,236000,0,lastfm_25users,4.15,False,24,3.933,False,10,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 08:42:30+00:00,Ólafur Arnalds,Near Light,Ambient / Focus,162000,0,lastfm_25users,54.78,True,25,2.7,False,11,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 08:46:36+00:00,Mabel Matiz,Fırtınadayım,Türkçe Pop,241000,0,lastfm_25users,4.1,False,25,4.017,False,11,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 08:50:41+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,237000,0,lastfm_25users,4.08,False,25,3.95,False,11,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 08:53:42+00:00,Radiohead,Creep,Alternative Rock,175000,0,lastfm_25users,3.02,False,25,2.917,False,11,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 08:57:21+00:00,Arctic Monkeys,R U Mine?,Indie Rock,208000,1,lastfm_25users,3.65,False,25,3.467,False,11,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 09:01:11+00:00,Radiohead,No Surprises,Alternative Rock,216000,0,lastfm_25users,3.83,False,25,3.6,False,12,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 09:05:27+00:00,Radiohead,No Surprises,Alternative Rock,245000,1,lastfm_25users,4.27,False,25,4.083,False,12,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 09:09:08+00:00,Arctic Monkeys,505,Indie Rock,216000,1,lastfm_25users,3.68,False,25,3.6,False,12,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 09:12:26+00:00,Daft Punk,Instant Crush,Electronic,195000,0,lastfm_25users,3.3,False,25,3.25,False,12,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 09:15:51+00:00,Radiohead,Creep,Alternative Rock,191000,0,lastfm_25users,3.42,False,25,3.183,False,12,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 09:19:10+00:00,Radiohead,No Surprises,Alternative Rock,196000,0,lastfm_25users,3.32,False,25,3.267,False,12,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 17:26:20+00:00,Arctic Monkeys,R U Mine?,Indie Rock,245000,0,lastfm_25users,487.17,True,26,4.083,False,20,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 17:29:47+00:00,Radiohead,Creep,Alternative Rock,199000,1,lastfm_25users,3.45,False,26,3.317,False,20,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 17:32:49+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,177000,0,lastfm_25users,3.03,False,26,2.95,False,20,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 17:35:59+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,176000,1,lastfm_25users,3.17,False,26,2.933,False,20,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 17:40:03+00:00,Radiohead,Karma Police,Alternative Rock,232000,0,lastfm_25users,4.07,False,26,3.867,False,20,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 17:44:16+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,239000,0,lastfm_25users,4.22,False,26,3.983,False,20,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 17:47:10+00:00,Arctic Monkeys,505,Indie Rock,161000,0,lastfm_25users,2.9,False,26,2.683,False,20,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 17:49:55+00:00,The Weeknd,Starboy,Synthpop / R&B,157000,0,lastfm_25users,2.75,False,26,2.617,False,20,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 17:53:36+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,215000,0,lastfm_25users,3.68,False,26,3.583,False,20,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 17:56:26+00:00,Duman,Kufi,Türkçe Rock,166000,0,lastfm_25users,2.83,False,26,2.767,False,20,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 18:00:32+00:00,Ceza,Fark Var,Türkçe Rap,240000,0,lastfm_25users,4.1,False,26,4.0,False,21,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 18:03:50+00:00,Arctic Monkeys,R U Mine?,Indie Rock,184000,0,lastfm_25users,3.3,False,26,3.067,False,21,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 18:06:48+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,165000,0,lastfm_25users,2.97,False,26,2.75,False,21,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 18:11:08+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,251000,0,lastfm_25users,4.33,False,26,4.183,False,21,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 18:14:00+00:00,Sezen Aksu,Tükeneceğiz,Türkçe Pop,168000,0,lastfm_25users,2.87,False,26,2.8,False,21,Wednesday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 22:09:53+00:00,Radiohead,Creep,Alternative Rock,166000,0,lastfm_25users,235.88,True,27,2.767,False,1,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 22:12:44+00:00,Radiohead,Karma Police,Alternative Rock,162000,0,lastfm_25users,2.85,False,27,2.7,False,1,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 22:15:27+00:00,Ludovico Einaudi,Experience,Classical / Focus,152000,0,lastfm_25users,2.72,False,27,2.533,False,1,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 22:18:07+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,156000,0,lastfm_25users,2.67,False,27,2.6,False,1,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 22:21:08+00:00,Radiohead,Creep,Alternative Rock,169000,0,lastfm_25users,3.02,False,27,2.817,False,1,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 22:23:50+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,155000,0,lastfm_25users,2.7,False,27,2.583,False,1,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 22:27:33+00:00,Arctic Monkeys,505,Indie Rock,215000,0,lastfm_25users,3.72,False,27,3.583,False,1,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 22:31:29+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,224000,0,lastfm_25users,3.93,False,27,3.733,False,1,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 22:34:54+00:00,Arctic Monkeys,R U Mine?,Indie Rock,193000,0,lastfm_25users,3.42,False,27,3.217,False,1,Thursday,False
-user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 22:38:12+00:00,Arctic Monkeys,R U Mine?,Indie Rock,184000,0,lastfm_25users,3.3,False,27,3.067,False,1,Thursday,False
+user_id,user_hash,played_at,artist_name,track_name,album_name,loved,source,primary_genre,gap_minutes,is_new_session,session_id,ms_played,minutes_played,is_skipped,hour,day_of_week,is_weekend
+user_01,8604818af4d2,2026-10-01 13:40:44+00:00,Larsen/Feiten Band,Who'll Be The Fool Tonight,The 50 Best Yacht Rock Songs Ever,0,lastfm_api,other,0.0,True,1,275000,4.583,False,16,Thursday,False
+user_01,8604818af4d2,2026-10-01 13:45:19+00:00,Christopher Cross,Ride Like the Wind,The 50 Best Yacht Rock Songs Ever,0,lastfm_api,other,4.58,False,1,248000,4.133,False,16,Thursday,False
+user_01,8604818af4d2,2026-10-01 13:49:27+00:00,Bruce Roberts,I Don't Wanna Go,The 50 Best Yacht Rock Songs Ever,0,lastfm_api,other,4.13,False,1,199000,3.317,False,16,Thursday,False
+user_01,8604818af4d2,2026-10-01 13:52:46+00:00,Brenda Russell,Hello People,The 50 Best Yacht Rock Songs Ever,0,lastfm_api,other,3.32,False,1,170000,2.833,False,16,Thursday,False
+user_01,8604818af4d2,2026-10-01 13:55:36+00:00,Randy Crawford,We Had a Love So Strong,The 50 Best Yacht Rock Songs Ever,0,lastfm_api,other,2.83,False,1,218000,3.633,False,16,Thursday,False
+user_01,8604818af4d2,2026-10-01 13:59:14+00:00,Robbie Dupree,Hot Rod Hearts,The 50 Best Yacht Rock Songs Ever,0,lastfm_api,other,3.63,False,1,199000,3.317,False,16,Thursday,False
+user_01,8604818af4d2,2026-10-01 14:02:33+00:00,Patrick Simmons,Sue Sad,The 50 Best Yacht Rock Songs Ever,0,lastfm_api,other,3.32,False,1,227000,3.783,False,17,Thursday,False
+user_01,8604818af4d2,2026-10-01 14:06:20+00:00,Stephen Bishop,Send a Little Love My Way (Like Always),The 50 Best Yacht Rock Songs Ever,0,lastfm_api,other,3.78,False,1,161000,2.683,False,17,Thursday,False
+user_01,8604818af4d2,2026-10-01 14:09:01+00:00,Jerry Corbetta,Sensitive Soul,The 50 Best Yacht Rock Songs Ever,0,lastfm_api,other,2.68,False,1,180000,3.0,False,17,Thursday,False
+user_01,8604818af4d2,2026-10-01 18:44:37+00:00,Five,Everybody Get Up - Radio Edit,Let's Dance,0,lastfm_api,pop,275.6,True,2,185000,3.083,False,21,Thursday,False
+user_01,8604818af4d2,2026-10-01 18:47:42+00:00,Five,Got the Feelin' - Radio Edit,Five,0,lastfm_api,pop,3.08,False,2,210000,3.5,False,21,Thursday,False
+user_01,8604818af4d2,2026-10-01 18:51:12+00:00,Five,Until The Time Is Through,Five,0,lastfm_api,pop,3.5,False,2,255000,4.25,False,21,Thursday,False
+user_01,8604818af4d2,2026-10-01 18:55:27+00:00,Five,Slam Dunk (Da Funk),Five,0,lastfm_api,pop,4.25,False,2,180000,3.0,False,21,Thursday,False
+user_01,8604818af4d2,2026-10-02 06:23:38+00:00,Five,Let's Dance - Radio Edit,Kingsize,0,lastfm_api,pop,688.18,True,3,219000,3.65,False,9,Friday,False
+user_01,8604818af4d2,2026-10-02 06:27:17+00:00,Five,We Will Rock You (feat. Queen) - Radio Edit,Invincible,0,lastfm_api,pop,3.65,False,3,190000,3.167,False,9,Friday,False
+user_01,8604818af4d2,2026-10-02 06:30:27+00:00,Five,Everybody Get Up - Radio Mix,Five,0,lastfm_api,pop,3.17,False,3,301000,5.017,False,9,Friday,False
+user_01,8604818af4d2,2026-10-02 06:35:28+00:00,Five,Kick That Wall Down,Time,0,lastfm_api,pop,5.02,False,3,169000,2.817,False,9,Friday,False
+user_01,8604818af4d2,2026-10-02 06:38:17+00:00,The Doobie Brothers,What a Fool Believes,Minute by Minute,0,lastfm_api,other,2.82,False,3,225000,3.75,False,9,Friday,False
+user_01,8604818af4d2,2026-10-02 06:42:02+00:00,"Grover Washington, Jr.",Just The Two Of Us (feat. Bill Withers) - Edit,Lean on Me: The Best of Bill Withers,0,lastfm_api,other,3.75,False,3,238000,3.967,False,9,Friday,False
+user_01,8604818af4d2,2026-10-02 06:46:00+00:00,George Benson,Give Me the Night,Give Me the Night,0,lastfm_api,other,3.97,False,3,303000,5.05,False,9,Friday,False
+user_01,8604818af4d2,2026-10-02 06:51:03+00:00,Christopher Cross,Ride Like the Wind,Christopher Cross,0,lastfm_api,other,5.05,False,3,180000,3.0,False,9,Friday,False
+user_01,8604818af4d2,2026-10-02 14:57:08+00:00,Player,Baby Come Back,Player,0,lastfm_api,other,486.08,True,4,293000,4.883,False,17,Friday,False
+user_01,8604818af4d2,2026-10-02 15:02:01+00:00,Fleetwood Mac,Everywhere - 2017 Remaster,Tango in the Night,0,lastfm_api,classic rock,4.88,False,4,228000,3.8,False,18,Friday,False
+user_01,8604818af4d2,2026-10-02 15:05:49+00:00,Thin Lizzy,Dancing in the Moonlight (It's Caught Me in It's Spotlight),Bad Reputation (Expanded Edition),0,lastfm_api,other,3.8,False,4,206000,3.433,False,18,Friday,False
+user_01,8604818af4d2,2026-10-02 15:09:15+00:00,Dire Straits,Money For Nothing - Remastered 1996,Brothers In Arms (Remastered 1996),0,lastfm_api,other,3.43,False,4,420000,7.0,False,18,Friday,False
+user_01,8604818af4d2,2026-10-02 15:36:13+00:00,The Beatles,We Can Work It Out - Remastered 2009,The Beatles 1962 - 1966 (Remastered),0,lastfm_api,classic rock,26.97,False,4,137000,2.283,False,18,Friday,False
+user_01,8604818af4d2,2026-10-02 15:38:30+00:00,Creedence Clearwater Revival,Fortunate Son,Willy And The Poor Boys (Expanded Edition),0,lastfm_api,other,2.28,False,4,143000,2.383,False,18,Friday,False
+user_01,8604818af4d2,2026-10-02 15:40:53+00:00,The Clash,I Fought the Law,The Cost Of Living - EP,0,lastfm_api,other,2.38,False,4,164000,2.733,False,18,Friday,False
+user_01,8604818af4d2,2026-10-02 15:43:37+00:00,Joan Jett & The Blackhearts,Bad Reputation,Bad Reputation (Expanded Edition),0,lastfm_api,other,2.73,False,4,170000,2.833,False,18,Friday,False
+user_01,8604818af4d2,2026-10-02 15:46:27+00:00,Guns N' Roses,Sweet Child o' Mine,Appetite for Destruction,0,lastfm_api,hard rock,2.83,False,4,358000,5.967,False,18,Friday,False
+user_01,8604818af4d2,2026-10-02 15:52:25+00:00,AC/DC,You Shook Me All Night Long,Back in Black,0,lastfm_api,other,5.97,False,4,180000,3.0,False,18,Friday,False
+user_01,8604818af4d2,2026-10-02 17:05:43+00:00,The Rolling Stones,"Paint It, Black",Aftermath,0,lastfm_api,other,73.3,True,5,204000,3.4,False,20,Friday,False
+user_01,8604818af4d2,2026-10-02 17:09:07+00:00,The J. Geils Band,Centerfold,Freeze Frame,0,lastfm_api,other,3.4,False,5,218000,3.633,False,20,Friday,False
+user_01,8604818af4d2,2026-10-02 17:12:45+00:00,Huey Lewis & The News,The Power Of Love - From “Back To The Future” Soundtrack,Fore! The Good Times,0,lastfm_api,other,3.63,False,5,239000,3.983,False,20,Friday,False
+user_01,8604818af4d2,2026-10-02 17:16:44+00:00,AC/DC,Thunderstruck,The Razors Edge,0,lastfm_api,other,3.98,False,5,293000,4.883,False,20,Friday,False
+user_01,8604818af4d2,2026-10-02 17:21:37+00:00,AC/DC,Highway to Hell,Highway to Hell,0,lastfm_api,other,4.88,False,5,324000,5.4,False,20,Friday,False
+user_01,8604818af4d2,2026-10-02 17:27:01+00:00,AC/DC,Back in Black,Back in Black,0,lastfm_api,other,5.4,False,5,180000,3.0,False,20,Friday,False
+user_01,8604818af4d2,2026-10-02 18:45:49+00:00,Prince Zuko,Pigstep Freestyle,Pigstep Freestyle,0,lastfm_api,other,78.8,True,6,152000,2.533,False,21,Friday,False
+user_01,8604818af4d2,2026-10-02 18:48:21+00:00,Lena Raine,otherside,Minecraft: Caves & Cliffs (Original Game Soundtrack),0,lastfm_api,other,2.53,False,6,230000,3.833,False,21,Friday,False
+user_01,8604818af4d2,2026-10-02 18:52:11+00:00,Lena Raine,One More Day,Minecraft: Caves & Cliffs (Original Game Soundtrack),0,lastfm_api,other,3.83,False,6,297000,4.95,False,21,Friday,False
+user_01,8604818af4d2,2026-10-02 18:57:08+00:00,Lena Raine,Aerie,Minecraft: The Wild Update (Original Game Soundtrack),0,lastfm_api,other,4.95,False,6,180000,3.0,False,21,Friday,False
+user_01,8604818af4d2,2026-10-03 09:14:08+00:00,Lena Raine,Labyrinthine,Minecraft: The Wild Update (Original Game Soundtrack),0,lastfm_api,other,857.0,True,7,314000,5.233,False,12,Saturday,True
+user_01,8604818af4d2,2026-10-03 09:19:22+00:00,Prince Zuko,Pigstep Freestyle,Pigstep Freestyle,0,lastfm_api,other,5.23,False,7,186000,3.1,False,12,Saturday,True
+user_01,8604818af4d2,2026-10-03 09:22:28+00:00,Lena Raine,otherside,Minecraft: Caves & Cliffs (Original Game Soundtrack),0,lastfm_api,other,3.1,False,7,180000,3.0,False,12,Saturday,True
+user_01,8604818af4d2,2026-10-04 07:52:30+00:00,Prince Zuko,Pigstep Freestyle,Pigstep Freestyle,0,lastfm_api,other,1350.03,True,8,180000,3.0,False,10,Sunday,True
+user_01,8604818af4d2,2026-10-05 08:37:38+00:00,Foo Fighters,My Hero,The Colour and the Shape,0,lastfm_api,other,1485.13,True,9,267000,4.45,False,11,Monday,False
+user_01,8604818af4d2,2026-10-05 08:42:05+00:00,The Offspring,Feelings,Americana,0,lastfm_api,punk rock,4.45,False,9,174000,2.9,False,11,Monday,False
+user_01,8604818af4d2,2026-10-05 08:44:59+00:00,Sublime,Wrong Way,Sublime,0,lastfm_api,other,2.9,False,9,176000,2.933,False,11,Monday,False
+user_01,8604818af4d2,2026-10-05 08:47:55+00:00,Green Day,Nice Guys Finish Last,Nimrod,0,lastfm_api,other,2.93,False,9,210000,3.5,False,11,Monday,False
+user_01,8604818af4d2,2026-10-05 08:51:25+00:00,No Doubt,Just a Girl,Tragic Kingdom,0,lastfm_api,other,3.5,False,9,252000,4.2,False,11,Monday,False
+user_01,8604818af4d2,2026-10-05 08:55:37+00:00,Barenaked Ladies,One Week,Stunt (20th Anniversary Edition),0,lastfm_api,other,4.2,False,9,171000,2.85,False,11,Monday,False
+user_01,8604818af4d2,2026-10-05 08:58:28+00:00,Hootie & The Blowfish,Only Wanna Be With You,Cracked Rear View,0,lastfm_api,other,2.85,False,9,180000,3.0,False,11,Monday,False
+user_01,8604818af4d2,2026-10-05 11:55:53+00:00,Less Than Jake,All My Best Friends Are Metalheads,Hello Rockview,0,lastfm_api,other,177.42,True,10,213000,3.55,False,14,Monday,False
+user_01,8604818af4d2,2026-10-05 11:59:26+00:00,Aqua,Doctor Jones,Aquarium (Special Edition),0,lastfm_api,other,3.55,False,10,204000,3.4,False,14,Monday,False
+user_01,8604818af4d2,2026-10-05 12:02:50+00:00,Bowling for Soup,High School Never Ends - Main Version - Explicit,The Great Burrito Extortion Case,0,lastfm_api,other,3.4,False,10,211000,3.517,False,15,Monday,False
+user_01,8604818af4d2,2026-10-05 12:06:21+00:00,Spiderbait,Calypso,Ivy & the Big Apples,0,lastfm_api,other,3.52,False,10,153000,2.55,False,15,Monday,False
+user_01,8604818af4d2,2026-10-05 12:08:54+00:00,Weezer,Buddy Holly,Weezer,0,lastfm_api,other,2.55,False,10,161000,2.683,False,15,Monday,False
+user_01,8604818af4d2,2026-10-05 12:11:35+00:00,Blur,Parklife - 2012 Remaster,Parklife (Special Edition),0,lastfm_api,other,2.68,False,10,420000,7.0,False,15,Monday,False
+user_01,8604818af4d2,2026-10-05 12:38:40+00:00,blink-182,All the Small Things,Enema of the State,0,lastfm_api,other,27.08,False,10,174000,2.9,False,15,Monday,False
+user_01,8604818af4d2,2026-10-05 12:41:34+00:00,Semisonic,Closing Time,Feeling Strangely Fine (20th Anniversary Edition),0,lastfm_api,other,2.9,False,10,275000,4.583,False,15,Monday,False
+user_01,8604818af4d2,2026-10-05 12:46:09+00:00,Foo Fighters,Monkey Wrench,The Colour and the Shape,0,lastfm_api,other,4.58,False,10,180000,3.0,False,15,Monday,False
+user_01,8604818af4d2,2026-10-05 18:40:11+00:00,The Offspring,Walla Walla,Americana,0,lastfm_api,punk rock,354.03,True,11,180000,3.0,False,21,Monday,False
+user_01,8604818af4d2,2026-10-05 20:12:54+00:00,Green Day,Uptight,Nimrod,0,lastfm_api,other,92.72,True,12,186000,3.1,False,23,Monday,False
+user_01,8604818af4d2,2026-10-05 20:16:00+00:00,Sublime,Smoke Two Joints,40oz. To Freedom,0,lastfm_api,other,3.1,False,12,88000,1.467,False,23,Monday,False
+user_01,8604818af4d2,2026-10-05 20:17:28+00:00,Less Than Jake,Johnny Quest Thinks We're Sellouts,Losing Streak,0,lastfm_api,other,1.47,False,12,420000,7.0,False,23,Monday,False
+user_01,8604818af4d2,2026-10-05 20:25:04+00:00,The Offspring,Staring at the Sun,Americana,0,lastfm_api,punk rock,7.6,False,12,143000,2.383,False,23,Monday,False
+user_01,8604818af4d2,2026-10-05 20:27:27+00:00,Rancid,Time Bomb,...And Out Come the Wolves,0,lastfm_api,other,2.38,False,12,180000,3.0,False,23,Monday,False
+user_01,8604818af4d2,2026-10-06 15:20:02+00:00,Fountains of Wayne,Stacy's Mom,Welcome Interstate Managers,0,lastfm_api,other,1132.58,True,13,216000,3.6,False,18,Tuesday,False
+user_01,8604818af4d2,2026-10-06 15:23:38+00:00,Goldfinger,99 Red Balloons,Stomping Ground,0,lastfm_api,other,3.6,False,13,232000,3.867,False,18,Tuesday,False
+user_01,8604818af4d2,2026-10-06 15:27:30+00:00,Nena,99 Red Balloons,99 Luftballons,0,lastfm_api,other,3.87,False,13,180000,3.0,False,18,Tuesday,False
+user_01,8604818af4d2,2026-10-06 17:37:32+00:00,Nena,99 Red Balloons,99 Luftballons,0,lastfm_api,other,130.03,True,14,232000,3.867,False,20,Tuesday,False
+user_01,8604818af4d2,2026-10-06 17:41:24+00:00,Nena,99 Red Balloons,99 Luftballons,0,lastfm_api,other,3.87,False,14,232000,3.867,False,20,Tuesday,False
+user_01,8604818af4d2,2026-10-06 17:45:16+00:00,Nena,99 Red Balloons,99 Luftballons,0,lastfm_api,other,3.87,False,14,180000,3.0,False,20,Tuesday,False
+user_01,8604818af4d2,2026-10-06 18:38:37+00:00,Nena,99 Red Balloons,99 Luftballons,0,lastfm_api,other,53.35,True,15,163000,2.717,False,21,Tuesday,False
+user_01,8604818af4d2,2026-10-06 18:41:20+00:00,Five,Got the Feelin' - Radio Edit,Five,0,lastfm_api,pop,2.72,False,15,228000,3.8,False,21,Tuesday,False
+user_01,8604818af4d2,2026-10-06 18:45:08+00:00,Five,Slam Dunk (Da Funk),Five,0,lastfm_api,pop,3.8,False,15,218000,3.633,False,21,Tuesday,False
+user_01,8604818af4d2,2026-10-06 18:48:46+00:00,Five,Slam Dunk (Da Funk),Five,0,lastfm_api,pop,3.63,False,15,180000,3.0,False,21,Tuesday,False
+user_01,8604818af4d2,2026-10-07 14:33:44+00:00,The Offspring,Have You Ever,Americana,0,lastfm_api,punk rock,1184.97,True,16,268000,4.467,False,17,Wednesday,False
+user_01,8604818af4d2,2026-10-07 14:38:12+00:00,Green Day,Welcome to Paradise,Dookie,0,lastfm_api,other,4.47,False,16,225000,3.75,False,17,Wednesday,False
+user_01,8604818af4d2,2026-10-07 14:41:57+00:00,The Mighty Mighty Bosstones,The Impression That I Get,Let’s Face It,0,lastfm_api,other,3.75,False,16,197000,3.283,False,17,Wednesday,False
+user_01,8604818af4d2,2026-10-07 14:45:14+00:00,Good Charlotte,The Anthem,The Young and the Hopeless,0,lastfm_api,other,3.28,False,16,192000,3.2,False,17,Wednesday,False
+user_01,8604818af4d2,2026-10-07 14:48:26+00:00,The Offspring,Original Prankster,Conspiracy of One,0,lastfm_api,punk rock,3.2,False,16,222000,3.7,False,17,Wednesday,False
+user_01,8604818af4d2,2026-10-07 14:52:08+00:00,Rancid,Fall Back Down,Indestructible,0,lastfm_api,other,3.7,False,16,225000,3.75,False,17,Wednesday,False
+user_01,8604818af4d2,2026-10-07 14:55:53+00:00,Sum 41,In Too Deep,"All Killer, No Filler",0,lastfm_api,other,3.75,False,16,208000,3.467,False,17,Wednesday,False
+user_01,8604818af4d2,2026-10-07 14:59:21+00:00,Red Hot Chili Peppers,Scar Tissue,Californication (Deluxe Edition),0,lastfm_api,other,3.47,False,16,217000,3.617,False,17,Wednesday,False
+user_01,8604818af4d2,2026-10-07 15:02:58+00:00,Weezer,Beverly Hills,Make Believe,0,lastfm_api,other,3.62,False,16,420000,7.0,False,18,Wednesday,False
+user_01,8604818af4d2,2026-10-07 15:25:26+00:00,The Offspring,She's Got Issues,Americana,0,lastfm_api,punk rock,22.47,False,16,180000,3.0,False,18,Wednesday,False
+user_01,8604818af4d2,2026-10-08 13:44:44+00:00,The Offspring,She's Got Issues,Americana,0,lastfm_api,punk rock,1339.3,True,17,106000,1.767,False,16,Thursday,False
+user_01,8604818af4d2,2026-10-08 13:46:30+00:00,The Offspring,She's Got Issues,Americana,0,lastfm_api,punk rock,1.77,False,17,420000,7.0,False,16,Thursday,False
+user_01,8604818af4d2,2026-10-08 14:14:00+00:00,The Offspring,She's Got Issues,Americana,0,lastfm_api,punk rock,27.5,False,17,420000,7.0,False,17,Thursday,False
+user_01,8604818af4d2,2026-10-08 14:42:32+00:00,The Offspring,She's Got Issues,Americana,0,lastfm_api,punk rock,28.53,False,17,180000,3.0,False,17,Thursday,False
+user_01,8604818af4d2,2026-10-09 22:09:29+00:00,The Offspring,Gone away - 1997,Ixnay on the Hombre,0,lastfm_api,punk rock,1886.95,True,18,271000,4.517,False,1,Saturday,True
+user_01,8604818af4d2,2026-10-09 22:14:00+00:00,Bowling for Soup,Stacy's Mom,I've Never Done Anything Like This,0,lastfm_api,other,4.52,False,18,420000,7.0,False,1,Saturday,True
+user_01,8604818af4d2,2026-10-09 22:35:06+00:00,Red Hot Chili Peppers,Can't Stop,By the Way,0,lastfm_api,other,21.1,False,18,136000,2.267,False,1,Saturday,True
+user_01,8604818af4d2,2026-10-09 22:37:22+00:00,Green Day,Scattered,Nimrod,0,lastfm_api,other,2.27,False,18,184000,3.067,False,1,Saturday,True
+user_01,8604818af4d2,2026-10-09 22:40:26+00:00,Sum 41,Still Waiting,Does This Look Infected?,0,lastfm_api,other,3.07,False,18,160000,2.667,False,1,Saturday,True
+user_01,8604818af4d2,2026-10-09 22:43:06+00:00,Simple Plan,I'm Just a Kid,"No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",0,lastfm_api,other,2.67,False,18,180000,3.0,False,1,Saturday,True
+user_01,8604818af4d2,2026-10-10 07:59:23+00:00,The Offspring,No Brakes,Americana,0,lastfm_api,punk rock,556.28,True,19,180000,3.0,False,10,Saturday,True
+user_01,8604818af4d2,2026-10-12 08:19:27+00:00,The Offspring,No Brakes,Americana,0,lastfm_api,punk rock,2900.07,True,20,102000,1.7,False,11,Monday,False
+user_01,8604818af4d2,2026-10-12 08:21:09+00:00,Fountains of Wayne,Stacy's Mom,Welcome Interstate Managers,0,lastfm_api,other,1.7,False,20,200000,3.333,False,11,Monday,False
+user_01,8604818af4d2,2026-10-12 08:24:29+00:00,The Offspring,Gone away - 1997,Ixnay on the Hombre,0,lastfm_api,punk rock,3.33,False,20,270000,4.5,False,11,Monday,False
+user_01,8604818af4d2,2026-10-12 08:28:59+00:00,Green Day,The American Dream Is Killing Me,Saviors,0,lastfm_api,other,4.5,False,20,201000,3.35,False,11,Monday,False
+user_01,8604818af4d2,2026-10-12 08:32:20+00:00,Weezer,Buddy Holly,Weezer,0,lastfm_api,other,3.35,False,20,161000,2.683,False,11,Monday,False
+user_01,8604818af4d2,2026-10-12 08:35:01+00:00,Spiderbait,Calypso,Ivy & the Big Apples,0,lastfm_api,other,2.68,False,20,122000,2.033,False,11,Monday,False
+user_01,8604818af4d2,2026-10-12 08:37:03+00:00,Good Charlotte,The Anthem,The Young and the Hopeless,0,lastfm_api,other,2.03,False,20,301000,5.017,False,11,Monday,False
+user_01,8604818af4d2,2026-10-12 08:42:04+00:00,Paramore,Still Into You,Paramore,0,lastfm_api,other,5.02,False,20,217000,3.617,False,11,Monday,False
+user_01,8604818af4d2,2026-10-12 08:45:41+00:00,Paramore,All I Wanted,brand new eyes,0,lastfm_api,other,3.62,False,20,420000,7.0,False,11,Monday,False
+user_01,8604818af4d2,2026-10-12 08:56:27+00:00,Paramore,Misery Business,RIOT!,0,lastfm_api,other,10.77,False,20,180000,3.0,False,11,Monday,False
+user_01,8604818af4d2,2026-10-12 18:39:25+00:00,Linkin Park,In the End,Hybrid Theory (Bonus Edition),0,lastfm_api,nu metal,582.97,True,21,215000,3.583,False,21,Monday,False
+user_01,8604818af4d2,2026-10-12 18:43:00+00:00,Linkin Park,Numb,Meteora,0,lastfm_api,nu metal,3.58,False,21,189000,3.15,False,21,Monday,False
+user_01,8604818af4d2,2026-10-12 18:46:09+00:00,Linkin Park,Faint,Meteora,0,lastfm_api,nu metal,3.15,False,21,164000,2.733,False,21,Monday,False
+user_01,8604818af4d2,2026-10-12 18:48:53+00:00,Linkin Park,Somewhere I Belong,Meteora (Bonus Edition),0,lastfm_api,nu metal,2.73,False,21,215000,3.583,False,21,Monday,False
+user_01,8604818af4d2,2026-10-12 18:52:28+00:00,Linkin Park,What I've Done,Minutes to Midnight,0,lastfm_api,nu metal,3.58,False,21,207000,3.45,False,21,Monday,False
+user_01,8604818af4d2,2026-10-12 18:55:55+00:00,Linkin Park,The Emptiness Machine,From Zero,0,lastfm_api,nu metal,3.45,False,21,180000,3.0,False,21,Monday,False
+user_01,8604818af4d2,2026-10-12 20:08:26+00:00,Linkin Park,One Step Closer,Hybrid Theory (Bonus Edition),0,lastfm_api,nu metal,72.52,True,22,159000,2.65,False,23,Monday,False
+user_01,8604818af4d2,2026-10-12 20:11:05+00:00,Linkin Park,Crawling,Hybrid Theory (Bonus Edition),0,lastfm_api,nu metal,2.65,False,22,210000,3.5,False,23,Monday,False
+user_01,8604818af4d2,2026-10-12 20:14:35+00:00,Linkin Park,Given Up,Minutes to Midnight,0,lastfm_api,nu metal,3.5,False,22,190000,3.167,False,23,Monday,False
+user_01,8604818af4d2,2026-10-12 20:17:45+00:00,Linkin Park,Bleed It Out,Minutes to Midnight,0,lastfm_api,nu metal,3.17,False,22,166000,2.767,False,23,Monday,False
+user_01,8604818af4d2,2026-10-12 20:20:31+00:00,Linkin Park,Inception/Intro - Unshatter Film Soundtrack - Live in São Paulo,Unshatter Film Soundtrack (Live in São Paulo),0,lastfm_api,nu metal,2.77,False,22,180000,3.0,False,23,Monday,False
+user_01,8604818af4d2,2026-10-13 08:17:26+00:00,Belinda Carlisle,"Heaven Is a Place on Earth - Promo 7"" Edit",Heaven On Earth (Deluxe Edition),0,lastfm_api,other,716.92,True,23,235000,3.917,False,11,Tuesday,False
+user_01,8604818af4d2,2026-10-13 08:21:21+00:00,Belinda Carlisle,Leave a Light On,Runaway Horses,0,lastfm_api,other,3.92,False,23,280000,4.667,False,11,Tuesday,False
+user_01,8604818af4d2,2026-10-13 08:26:01+00:00,Belinda Carlisle,Circle In The Sand - 7'' Version,Heaven On Earth (Deluxe Edition),0,lastfm_api,other,4.67,False,23,180000,3.0,False,11,Tuesday,False
+user_01,8604818af4d2,2026-10-13 10:13:11+00:00,Belinda Carlisle,I Get Weak,Heaven on Earth,0,lastfm_api,other,107.17,True,24,294000,4.9,False,13,Tuesday,False
+user_01,8604818af4d2,2026-10-13 10:18:05+00:00,Belinda Carlisle,Summer Rain,Runaway Horses,0,lastfm_api,other,4.9,False,24,365000,6.083,False,13,Tuesday,False
+user_01,8604818af4d2,2026-10-13 10:24:10+00:00,Belinda Carlisle,"Leave a Light On - 7"" Version",Runaway Horses (Deluxe Edition),0,lastfm_api,other,6.08,False,24,180000,3.0,False,13,Tuesday,False
+user_01,8604818af4d2,2026-10-13 14:30:10+00:00,Belinda Carlisle,Mad About You,Belinda,0,lastfm_api,other,246.0,True,25,218000,3.633,False,17,Tuesday,False
+user_01,8604818af4d2,2026-10-13 14:33:48+00:00,Belinda Carlisle,Circle in the Sand,Heaven on Earth,0,lastfm_api,other,3.63,False,25,268000,4.467,False,17,Tuesday,False
+user_01,8604818af4d2,2026-10-13 14:38:16+00:00,Belinda Carlisle,La Luna,Runaway Horses (Deluxe Edition),0,lastfm_api,other,4.47,False,25,286000,4.767,False,17,Tuesday,False
+user_01,8604818af4d2,2026-10-13 14:43:02+00:00,Belinda Carlisle,(We Want) The Same Thing - Summer Remix,Runaway Horses (Deluxe Edition),0,lastfm_api,other,4.77,False,25,258000,4.3,False,17,Tuesday,False
+user_01,8604818af4d2,2026-10-13 14:47:20+00:00,Belinda Carlisle,Anyone Who Had A Heart,Once Upon A Time In California,0,lastfm_api,other,4.3,False,25,186000,3.1,False,17,Tuesday,False
+user_01,8604818af4d2,2026-10-13 14:50:26+00:00,Belinda Carlisle,If You Could Read My Mind,Once Upon A Time In California,0,lastfm_api,other,3.1,False,25,261000,4.35,False,17,Tuesday,False
+user_01,8604818af4d2,2026-10-13 14:54:47+00:00,Belinda Carlisle,One,Once Upon A Time In California,0,lastfm_api,other,4.35,False,25,180000,3.0,False,17,Tuesday,False
+user_01,8604818af4d2,2026-10-13 16:13:54+00:00,Linkin Park,In the End,Hybrid Theory (Bonus Edition),0,lastfm_api,nu metal,79.12,True,26,214000,3.567,False,19,Tuesday,False
+user_01,8604818af4d2,2026-10-13 16:17:28+00:00,Linkin Park,One Step Closer,Hybrid Theory (Bonus Edition),0,lastfm_api,nu metal,3.57,False,26,180000,3.0,False,19,Tuesday,False
+user_01,8604818af4d2,2026-10-13 16:51:18+00:00,Linkin Park,Crawling,Hybrid Theory (Bonus Edition),0,lastfm_api,nu metal,33.83,True,27,420000,7.0,False,19,Tuesday,False
+user_01,8604818af4d2,2026-10-13 17:03:23+00:00,EVE 6,Inside Out,Eve 6,0,lastfm_api,other,12.08,False,27,180000,3.0,False,20,Tuesday,False
+user_01,8604818af4d2,2026-10-13 17:38:46+00:00,Five,Slam Dunk (Da Funk),Five,0,lastfm_api,pop,35.38,True,28,217000,3.617,False,20,Tuesday,False
+user_01,8604818af4d2,2026-10-13 17:42:23+00:00,Five,When the Lights Go Out - Radio Edit,Five,0,lastfm_api,pop,3.62,False,28,251000,4.183,False,20,Tuesday,False
+user_01,8604818af4d2,2026-10-13 17:46:34+00:00,Five,Everybody Get Up - Radio Mix,Five,0,lastfm_api,pop,4.18,False,28,204000,3.4,False,20,Tuesday,False
+user_01,8604818af4d2,2026-10-13 17:49:58+00:00,Five,Got the Feelin' - Radio Edit,Five,0,lastfm_api,pop,3.4,False,28,180000,3.0,False,20,Tuesday,False
+user_01,8604818af4d2,2026-10-13 18:50:29+00:00,Five,If Ya Gettin' Down,Invincible,0,lastfm_api,pop,60.52,True,29,181000,3.017,False,21,Tuesday,False
+user_01,8604818af4d2,2026-10-13 18:53:30+00:00,Five,Keep on Movin',Invincible,0,lastfm_api,pop,3.02,False,29,180000,3.0,False,21,Tuesday,False
+user_01,8604818af4d2,2026-10-14 11:03:16+00:00,Linkin Park,Faint,Meteora,0,lastfm_api,nu metal,969.77,True,30,163000,2.717,False,14,Wednesday,False
+user_01,8604818af4d2,2026-10-14 11:05:59+00:00,Foo Fighters,My Hero,The Colour and the Shape,0,lastfm_api,other,2.72,False,30,261000,4.35,False,14,Wednesday,False
+user_01,8604818af4d2,2026-10-14 11:10:20+00:00,Green Day,Holiday,American Idiot (20th Anniversary Deluxe Edition),0,lastfm_api,other,4.35,False,30,234000,3.9,False,14,Wednesday,False
+user_01,8604818af4d2,2026-10-14 11:14:14+00:00,The Offspring,The Kids Aren't Alright,Americana,0,lastfm_api,punk rock,3.9,False,30,191000,3.183,False,14,Wednesday,False
+user_01,8604818af4d2,2026-10-14 11:17:25+00:00,Linkin Park,Somewhere I Belong,Meteora (Bonus Edition),0,lastfm_api,nu metal,3.18,False,30,231000,3.85,False,14,Wednesday,False
+user_01,8604818af4d2,2026-10-14 11:21:16+00:00,Papa Roach,Last Resort,Infest,0,lastfm_api,other,3.85,False,30,201000,3.35,False,14,Wednesday,False
+user_01,8604818af4d2,2026-10-14 11:24:37+00:00,blink-182,First Date,Take Off Your Pants and Jacket,0,lastfm_api,other,3.35,False,30,420000,7.0,False,14,Wednesday,False
+user_01,8604818af4d2,2026-10-14 11:47:53+00:00,Linkin Park,What I've Done,Minutes to Midnight,0,lastfm_api,nu metal,23.27,False,30,206000,3.433,False,14,Wednesday,False
+user_01,8604818af4d2,2026-10-14 11:51:19+00:00,Jimmy Eat World,The Middle,Bleed American,0,lastfm_api,other,3.43,False,30,167000,2.783,False,14,Wednesday,False
+user_01,8604818af4d2,2026-10-14 11:54:06+00:00,3 Doors Down,Kryptonite,The Better Life,0,lastfm_api,other,2.78,False,30,235000,3.917,False,14,Wednesday,False
+user_01,8604818af4d2,2026-10-14 11:58:01+00:00,Green Day,Basket Case,Dookie,0,lastfm_api,other,3.92,False,30,233000,3.883,False,14,Wednesday,False
+user_01,8604818af4d2,2026-10-14 12:01:54+00:00,Sum 41,Over My Head (Better Off Dead),Does This Look Infected?,0,lastfm_api,other,3.88,False,30,151000,2.517,False,15,Wednesday,False
+user_01,8604818af4d2,2026-10-14 12:04:25+00:00,Red Hot Chili Peppers,Under the Bridge,Blood Sugar Sex Magik (Deluxe Edition),0,lastfm_api,other,2.52,False,30,180000,3.0,False,15,Wednesday,False
+user_01,8604818af4d2,2026-10-14 12:39:46+00:00,Linkin Park,Papercut,Hybrid Theory (Bonus Edition),0,lastfm_api,nu metal,35.35,True,31,186000,3.1,False,15,Wednesday,False
+user_01,8604818af4d2,2026-10-14 12:42:52+00:00,All Time Low,"Dear Maria, Count Me In","So Wrong, It's Right",0,lastfm_api,other,3.1,False,31,180000,3.0,False,15,Wednesday,False
+user_01,8604818af4d2,2026-10-14 14:44:36+00:00,Simple Plan,Welcome to My Life,Still Not Getting Any...,0,lastfm_api,other,121.73,True,32,208000,3.467,False,17,Wednesday,False
+user_01,8604818af4d2,2026-10-14 14:48:04+00:00,Green Day,When I Come Around,Dookie,0,lastfm_api,other,3.47,False,32,179000,2.983,False,17,Wednesday,False
+user_01,8604818af4d2,2026-10-14 14:51:03+00:00,The Offspring,Staring at the Sun,Americana,0,lastfm_api,punk rock,2.98,False,32,135000,2.25,False,17,Wednesday,False
+user_01,8604818af4d2,2026-10-14 14:53:18+00:00,Linkin Park,New Divide,New Divide,0,lastfm_api,nu metal,2.25,False,32,270000,4.5,False,17,Wednesday,False
+user_01,8604818af4d2,2026-10-14 14:57:48+00:00,Sum 41,Fat Lip,"All Killer, No Filler",0,lastfm_api,other,4.5,False,32,179000,2.983,False,17,Wednesday,False
+user_01,8604818af4d2,2026-10-14 15:00:47+00:00,Red Hot Chili Peppers,Otherside,Californication (Deluxe Edition),0,lastfm_api,other,2.98,False,32,256000,4.267,False,18,Wednesday,False
+user_01,8604818af4d2,2026-10-14 15:05:03+00:00,Fall Out Boy,"Sugar, We're Goin Down",From Under the Cork Tree,0,lastfm_api,other,4.27,False,32,324000,5.4,False,18,Wednesday,False
+user_01,8604818af4d2,2026-10-14 15:10:27+00:00,blink-182,All the Small Things,Enema of the State,0,lastfm_api,other,5.4,False,32,176000,2.933,False,18,Wednesday,False
+user_01,8604818af4d2,2026-10-14 15:13:23+00:00,Linkin Park,Figure.09,Meteora (Bonus Edition),0,lastfm_api,nu metal,2.93,False,32,192000,3.2,False,18,Wednesday,False
+user_01,8604818af4d2,2026-10-14 15:16:35+00:00,Creed,One Last Breath,Weathered,0,lastfm_api,other,3.2,False,32,177000,2.95,False,18,Wednesday,False
+user_01,8604818af4d2,2026-10-14 15:19:32+00:00,Five,Keep on Movin',Invincible,0,lastfm_api,pop,2.95,False,32,179000,2.983,False,18,Wednesday,False
+user_01,8604818af4d2,2026-10-14 15:22:31+00:00,Five,If Ya Gettin' Down,Invincible,0,lastfm_api,pop,2.98,False,32,182000,3.033,False,18,Wednesday,False
+user_01,8604818af4d2,2026-10-14 15:25:33+00:00,Five,When the Lights Go Out - Radio Edit,Five,0,lastfm_api,pop,3.03,False,32,180000,3.0,False,18,Wednesday,False
+user_01,8604818af4d2,2026-10-15 18:42:55+00:00,Five,Keep on Movin',Invincible,0,lastfm_api,pop,1637.37,True,33,199000,3.317,False,21,Thursday,False
+user_01,8604818af4d2,2026-10-15 18:46:14+00:00,Five,If Ya Gettin' Down,Invincible,0,lastfm_api,pop,3.32,False,33,182000,3.033,False,21,Thursday,False
+user_01,8604818af4d2,2026-10-15 18:49:16+00:00,Five,When the Lights Go Out - Radio Edit,Five,0,lastfm_api,pop,3.03,False,33,251000,4.183,False,21,Thursday,False
+user_01,8604818af4d2,2026-10-15 18:53:27+00:00,Five,Everybody Get Up - Radio Edit,Let's Dance,0,lastfm_api,pop,4.18,False,33,274000,4.567,False,21,Thursday,False
+user_01,8604818af4d2,2026-10-15 18:58:01+00:00,Five,Got the Feelin' - Radio Edit,Five,0,lastfm_api,pop,4.57,False,33,180000,3.0,False,21,Thursday,False
+user_01,8604818af4d2,2026-10-16 07:04:15+00:00,Five,Slam Dunk (Da Funk),Five,0,lastfm_api,pop,726.23,True,34,217000,3.617,False,10,Friday,False
+user_01,8604818af4d2,2026-10-16 07:07:52+00:00,Five,When the Lights Go Out - Radio Edit,Five,0,lastfm_api,pop,3.62,False,34,264000,4.4,False,10,Friday,False
+user_01,8604818af4d2,2026-10-16 07:12:16+00:00,Five,Everybody Get Up - Radio Mix,Five,0,lastfm_api,pop,4.4,False,34,420000,7.0,False,10,Friday,False
+user_01,8604818af4d2,2026-10-16 07:22:20+00:00,Five,Got the Feelin' - Radio Edit,Five,0,lastfm_api,pop,10.07,False,34,180000,3.0,False,10,Friday,False
+user_01,8604818af4d2,2026-10-17 09:20:39+00:00,Five,Got the Feelin' - Radio Edit,Five,0,lastfm_api,pop,1558.32,True,35,180000,3.0,False,12,Saturday,True
+user_01,8604818af4d2,2026-10-19 08:39:11+00:00,Billy Joel,We Didn't Start the Fire,Storm Front,0,lastfm_api,other,2838.53,True,36,293000,4.883,False,11,Monday,False
+user_01,8604818af4d2,2026-10-19 08:44:04+00:00,Guns N' Roses,Paradise City,Appetite for Destruction,0,lastfm_api,hard rock,4.88,False,36,406000,6.767,False,11,Monday,False
+user_01,8604818af4d2,2026-10-19 08:50:50+00:00,Boston,More Than a Feeling,Boston,0,lastfm_api,other,6.77,False,36,286000,4.767,False,11,Monday,False
+user_01,8604818af4d2,2026-10-19 08:55:36+00:00,Joan Jett & The Blackhearts,I Love Rock 'N Roll,I Love Rock 'N' Roll (Expanded Edition),0,lastfm_api,other,4.77,False,36,176000,2.933,False,11,Monday,False
+user_01,8604818af4d2,2026-10-19 08:58:32+00:00,Billy Idol,Rebel Yell,Rebel Yell,0,lastfm_api,other,2.93,False,36,180000,3.0,False,11,Monday,False
+user_01,8604818af4d2,2026-10-19 10:20:59+00:00,AC/DC,You Shook Me All Night Long,Back in Black,0,lastfm_api,other,82.45,True,37,229000,3.817,False,13,Monday,False
+user_01,8604818af4d2,2026-10-19 10:24:48+00:00,Queen,Under Pressure (feat. David Bowie),Hot Space,0,lastfm_api,other,3.82,False,37,385000,6.417,False,13,Monday,False
+user_01,8604818af4d2,2026-10-19 10:31:13+00:00,Huey Lewis & The News,The Power of Love,Greatest Hits: Huey Lewis And The News,0,lastfm_api,other,6.42,False,37,260000,4.333,False,13,Monday,False
+user_01,8604818af4d2,2026-10-19 10:35:33+00:00,Kansas,Carry on Wayward Son,Leftoverture (Expanded Edition),0,lastfm_api,other,4.33,False,37,180000,3.0,False,13,Monday,False
+user_01,8604818af4d2,2026-10-19 13:17:30+00:00,Sublime,What I Got,Sublime,0,lastfm_api,other,161.95,True,38,172000,2.867,False,16,Monday,False
+user_01,8604818af4d2,2026-10-19 13:20:22+00:00,Sublime,Wrong Way,Sublime,0,lastfm_api,other,2.87,False,38,180000,3.0,False,16,Monday,False
+user_01,8604818af4d2,2026-10-19 14:10:10+00:00,Sublime,Doin' Time,Sublime,0,lastfm_api,other,49.8,True,39,255000,4.25,False,17,Monday,False
+user_01,8604818af4d2,2026-10-19 14:14:25+00:00,Sublime,Badfish,40oz. To Freedom,0,lastfm_api,other,4.25,False,39,187000,3.117,False,17,Monday,False
+user_01,8604818af4d2,2026-10-19 14:17:32+00:00,Sublime,Caress Me Down,Sublime,0,lastfm_api,other,3.12,False,39,212000,3.533,False,17,Monday,False
+user_01,8604818af4d2,2026-10-19 14:21:04+00:00,Sublime,Smoke Two Joints,40oz. To Freedom,0,lastfm_api,other,3.53,False,39,180000,3.0,False,17,Monday,False
+user_01,8604818af4d2,2026-10-19 18:42:37+00:00,Stevie Nicks,Edge of Seventeen,Crystal Visions...The Very Best of Stevie Nicks,0,lastfm_api,other,261.55,True,40,331000,5.517,False,21,Monday,False
+user_01,8604818af4d2,2026-10-19 18:48:08+00:00,Bon Jovi,Wanted Dead or Alive,Slippery When Wet,0,lastfm_api,other,5.52,False,40,310000,5.167,False,21,Monday,False
+user_01,8604818af4d2,2026-10-19 18:53:18+00:00,Blue Öyster Cult,(Don't Fear) The Reaper,Agents of Fortune,0,lastfm_api,other,5.17,False,40,180000,3.0,False,21,Monday,False
+user_01,8604818af4d2,2026-10-19 20:48:57+00:00,Journey,Any Way You Want It,Departure,0,lastfm_api,other,115.65,True,41,183000,3.05,False,23,Monday,False
+user_01,8604818af4d2,2026-10-19 20:52:00+00:00,Elton John,"Rocket Man (I Think It's Going to Be a Long, Long Time)",Honky Chateau,0,lastfm_api,other,3.05,False,41,283000,4.717,False,23,Monday,False
+user_01,8604818af4d2,2026-10-19 20:56:43+00:00,Bon Jovi,Livin' on a Prayer,Slippery When Wet,0,lastfm_api,other,4.72,False,41,180000,3.0,False,23,Monday,False
+user_01,8604818af4d2,2026-10-20 14:14:43+00:00,Blue Öyster Cult,(Don't Fear) The Reaper,Agents of Fortune,0,lastfm_api,other,1038.0,True,42,180000,3.0,False,17,Tuesday,False
+user_01,8604818af4d2,2026-10-20 14:49:58+00:00,Journey,Any Way You Want It,Departure,0,lastfm_api,other,35.25,True,43,203000,3.383,False,17,Tuesday,False
+user_01,8604818af4d2,2026-10-20 14:53:21+00:00,Kenny Loggins,"Danger Zone - From ""Top Gun"" Original Soundtrack","Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",0,lastfm_api,other,3.38,False,43,420000,7.0,False,17,Tuesday,False
+user_01,8604818af4d2,2026-10-20 15:10:57+00:00,Electric Light Orchestra,Don't Bring Me Down,Discovery,0,lastfm_api,other,17.6,False,43,244000,4.067,False,18,Tuesday,False
+user_01,8604818af4d2,2026-10-20 15:15:01+00:00,Bon Jovi,Wanted Dead or Alive,Slippery When Wet,0,lastfm_api,other,4.07,False,43,310000,5.167,False,18,Tuesday,False
+user_01,8604818af4d2,2026-10-20 15:20:11+00:00,Elton John,"Rocket Man (I Think It's Going to Be a Long, Long Time)",Honky Chateau,0,lastfm_api,other,5.17,False,43,420000,7.0,False,18,Tuesday,False
+user_01,8604818af4d2,2026-10-20 15:41:34+00:00,Journey,Separate Ways (Worlds Apart) [2023 Remaster],Frontiers (2023 Remaster),0,lastfm_api,other,21.38,False,43,180000,3.0,False,18,Tuesday,False
+user_01,8604818af4d2,2026-10-21 14:35:16+00:00,Oasis,Don't Look Back In Anger - Remastered,(What's The Story) Morning Glory? (Deluxe Remastered Edition),0,lastfm_api,other,1373.7,True,44,341000,5.683,False,17,Wednesday,False
+user_01,8604818af4d2,2026-10-21 14:40:57+00:00,Pulp,Common People,The Gambler (Music From The Motion Picture),0,lastfm_api,other,5.68,False,44,247000,4.117,False,17,Wednesday,False
+user_01,8604818af4d2,2026-10-21 14:45:04+00:00,Pulp,Common People,The Gambler (Music From The Motion Picture),0,lastfm_api,other,4.12,False,44,247000,4.117,False,17,Wednesday,False
+user_01,8604818af4d2,2026-10-21 14:49:11+00:00,Pulp,Common People,The Gambler (Music From The Motion Picture),0,lastfm_api,other,4.12,False,44,180000,3.0,False,17,Wednesday,False
+user_01,8604818af4d2,2026-10-21 15:25:51+00:00,Hanson,Mmmbop,Middle of Nowhere,0,lastfm_api,other,36.67,True,45,272000,4.533,False,18,Wednesday,False
+user_01,8604818af4d2,2026-10-21 15:30:23+00:00,B*Witched,C'est La Vie,B*Witched,0,lastfm_api,other,4.53,False,45,170000,2.833,False,18,Wednesday,False
+user_01,8604818af4d2,2026-10-21 15:33:13+00:00,Aqua,Doctor Jones,Aquarium (Special Edition),0,lastfm_api,other,2.83,False,45,180000,3.0,False,18,Wednesday,False
+user_01,8604818af4d2,2026-10-22 07:41:40+00:00,Pulp,Common People,The Gambler (Music From The Motion Picture),0,lastfm_api,other,968.45,True,46,273000,4.55,False,10,Thursday,False
+user_01,8604818af4d2,2026-10-22 07:46:13+00:00,Pulp,Disco 2000,Different Class,0,lastfm_api,other,4.55,False,46,275000,4.583,False,10,Thursday,False
+user_01,8604818af4d2,2026-10-22 07:50:48+00:00,Pulp,Babies,His N Hers,0,lastfm_api,other,4.58,False,46,180000,3.0,False,10,Thursday,False
+user_01,8604818af4d2,2026-10-22 12:20:13+00:00,Pulp,Do You Remember the First Time?,His N Hers,0,lastfm_api,other,269.42,True,47,180000,3.0,False,15,Thursday,False
+user_01,8604818af4d2,2026-10-22 17:11:30+00:00,3 Doors Down,Kryptonite,The Better Life,0,lastfm_api,other,291.28,True,48,156000,2.6,False,20,Thursday,False
+user_01,8604818af4d2,2026-10-22 17:14:06+00:00,Savage Garden,The Animal Song,Affirmation,0,lastfm_api,other,2.6,False,48,279000,4.65,False,20,Thursday,False
+user_01,8604818af4d2,2026-10-22 17:18:45+00:00,Bus Stop,Kung Fu Fighting,Kung Fu Fighting,0,lastfm_api,other,4.65,False,48,283000,4.717,False,20,Thursday,False
+user_01,8604818af4d2,2026-10-22 17:23:28+00:00,DJ Jazzy Jeff & The Fresh Prince,Boom! Shake the Room,Code Red,0,lastfm_api,other,4.72,False,48,227000,3.783,False,20,Thursday,False
+user_01,8604818af4d2,2026-10-22 17:27:15+00:00,Jimmy Ray,Are You Jimmy Ray?,Jimmy Ray,0,lastfm_api,other,3.78,False,48,180000,3.0,False,20,Thursday,False
+user_01,8604818af4d2,2026-10-22 18:36:49+00:00,Will Smith,Switch,Lost And Found,0,lastfm_api,other,69.57,True,49,212000,3.533,False,21,Thursday,False
+user_01,8604818af4d2,2026-10-22 18:40:21+00:00,Girls Aloud,Love Machine,What Will the Neighbours Say?,0,lastfm_api,other,3.53,False,49,200000,3.333,False,21,Thursday,False
+user_01,8604818af4d2,2026-10-22 18:43:41+00:00,Five,Got the Feelin' - Radio Edit,Five,0,lastfm_api,pop,3.33,False,49,180000,3.0,False,21,Thursday,False
+user_01,8604818af4d2,2026-10-24 07:58:52+00:00,Eternal,I Wanna Be the Only One (feat. Bebe Winans),Before the Rain,0,lastfm_api,other,2235.18,True,50,180000,3.0,False,10,Saturday,True
+user_01,8604818af4d2,2026-10-24 09:42:44+00:00,Prince Zuko,Pigstep Freestyle,Pigstep Freestyle,0,lastfm_api,other,103.87,True,51,180000,3.0,False,12,Saturday,True
+user_01,8604818af4d2,2026-10-27 09:04:53+00:00,Prince Zuko,Pigstep Freestyle,Pigstep Freestyle,0,lastfm_api,other,4282.15,True,52,180000,3.0,False,12,Tuesday,False
+user_01,8604818af4d2,2026-10-27 09:55:17+00:00,Roxette,Listen to Your Heart,Look Sharp!,0,lastfm_api,other,50.4,True,53,329000,5.483,False,12,Tuesday,False
+user_01,8604818af4d2,2026-10-27 10:00:46+00:00,The Outfield,Your Love,Play Deep,0,lastfm_api,other,5.48,False,53,224000,3.733,False,13,Tuesday,False
+user_01,8604818af4d2,2026-10-27 10:04:30+00:00,Dido,Thank You,No Angel,0,lastfm_api,other,3.73,False,53,180000,3.0,False,13,Tuesday,False
+user_01,8604818af4d2,2026-10-27 14:46:57+00:00,Metallica,Enter Sandman - Remastered 2021,Metallica (Remastered Deluxe Box Set),0,lastfm_api,other,282.45,True,54,265000,4.417,False,17,Tuesday,False
+user_01,8604818af4d2,2026-10-27 14:51:22+00:00,Metallica,Enter Sandman - Remastered 2021,Metallica (Remastered Deluxe Box Set),0,lastfm_api,other,4.42,False,54,180000,3.0,False,17,Tuesday,False
+user_01,8604818af4d2,2026-10-27 16:15:36+00:00,Rancid,Time Bomb,...And Out Come the Wolves,0,lastfm_api,other,84.23,True,55,146000,2.433,False,19,Tuesday,False
+user_01,8604818af4d2,2026-10-27 16:18:02+00:00,OPM,Heaven Is a Halfpipe (If I Die),Menace To Sobriety,0,lastfm_api,other,2.43,False,55,259000,4.317,False,19,Tuesday,False
+user_01,8604818af4d2,2026-10-27 16:22:21+00:00,Spiderbait,Calypso,Ivy & the Big Apples,0,lastfm_api,other,4.32,False,55,113000,1.883,False,19,Tuesday,False
+user_01,8604818af4d2,2026-10-27 16:24:14+00:00,Jimmy Eat World,The Middle,Bleed American,0,lastfm_api,other,1.88,False,55,167000,2.783,False,19,Tuesday,False
+user_01,8604818af4d2,2026-10-27 16:27:01+00:00,Bowling for Soup,High School Never Ends - Main Version - Explicit,The Great Burrito Extortion Case,0,lastfm_api,other,2.78,False,55,136000,2.267,False,19,Tuesday,False
+user_01,8604818af4d2,2026-10-27 16:29:17+00:00,The Offspring,Staring at the Sun,Americana,0,lastfm_api,punk rock,2.27,False,55,180000,3.0,False,19,Tuesday,False
+user_01,8604818af4d2,2026-11-01 09:25:04+00:00,Prince Zuko,Pigstep Freestyle,Pigstep Freestyle,0,lastfm_api,other,6775.78,True,56,180000,3.0,False,12,Sunday,True
+user_01,8604818af4d2,2026-11-02 19:51:32+00:00,The Goo Goo Dolls,Slide,Dizzy Up the Girl,0,lastfm_api,other,2066.47,True,57,214000,3.567,False,22,Monday,False
+user_01,8604818af4d2,2026-11-02 19:55:06+00:00,Oasis,Don't Look Back In Anger - Remastered,(What's The Story) Morning Glory? (Deluxe Remastered Edition),0,lastfm_api,other,3.57,False,57,180000,3.0,False,22,Monday,False
+user_01,8604818af4d2,2026-11-02 21:21:26+00:00,Foo Fighters,My Hero,The Colour and the Shape,0,lastfm_api,other,86.33,True,58,261000,4.35,False,0,Tuesday,False
+user_01,8604818af4d2,2026-11-02 21:25:47+00:00,Linkin Park,Somewhere I Belong,Meteora (Bonus Edition),0,lastfm_api,nu metal,4.35,False,58,180000,3.0,False,0,Tuesday,False
+user_01,8604818af4d2,2026-11-03 08:32:46+00:00,The Goo Goo Dolls,Iris,Dizzy Up the Girl,0,lastfm_api,other,666.98,True,59,301000,5.017,False,11,Tuesday,False
+user_01,8604818af4d2,2026-11-03 08:37:47+00:00,Linkin Park,In the End,Hybrid Theory (Bonus Edition),0,lastfm_api,nu metal,5.02,False,59,219000,3.65,False,11,Tuesday,False
+user_01,8604818af4d2,2026-11-03 08:41:26+00:00,3 Doors Down,Kryptonite,The Better Life,0,lastfm_api,other,3.65,False,59,235000,3.917,False,11,Tuesday,False
+user_01,8604818af4d2,2026-11-03 08:45:21+00:00,Oasis,Wonderwall - Remastered,(What's The Story) Morning Glory? (Deluxe Remastered Edition),0,lastfm_api,other,3.92,False,59,295000,4.917,False,11,Tuesday,False

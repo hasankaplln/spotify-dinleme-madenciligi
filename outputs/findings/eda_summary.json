@@ -1,6 +1,6 @@
 {
-  "initial_rows": 7500,
-  "cleaned_rows": 7500,
+  "initial_rows": 10000,
+  "cleaned_rows": 10000,
   "unique_users": 25,
   "missing_values_before": {
     "played_at": 0,
@@ -11,19 +11,19 @@
   "duplicates_removed": 0,
   "outliers_too_short_removed": 0,
   "outliers_too_long_removed": 0,
-  "iqr_upper_bound_minutes": 5.24,
+  "iqr_upper_bound_minutes": 7.88,
   "iqr_long_track_count": 0,
-  "unique_artists": 25,
-  "unique_tracks": 75,
-  "unique_genres": 19,
-  "total_sessions": 793,
-  "overall_skip_rate": 0.0,
-  "total_hours_played": 425.46,
+  "unique_artists": 2934,
+  "unique_tracks": 6622,
+  "unique_genres": 50,
+  "total_sessions": 1261,
+  "overall_skip_rate": 0.0149,
+  "total_hours_played": 670.32,
   "session_summary": {
-    "median_session_minutes": 31.78,
-    "iqr_session_minutes": 21.83,
-    "mean_session_tracks": 9.46,
-    "mean_session_skip_rate": 0.0
+    "median_session_minutes": 15.08,
+    "iqr_session_minutes": 35.67,
+    "mean_session_tracks": 7.93,
+    "mean_session_skip_rate": 0.0137
   },
   "generated_figures": [
     "outputs\\figures\\eda_01_hourly_weekday_heatmap.png",
