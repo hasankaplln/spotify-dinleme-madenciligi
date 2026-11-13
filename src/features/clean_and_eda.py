@@ -6,28 +6,6 @@
 Proje: Kişisel Dinleme Alışkanlıklarının Madenciliği, Oturum Kümelemesi ve
 Sonraki Şarkı Önerisi
 Öğrenci: Hasan Kaplan (256066007)
-
-Hafta 3 Gereksinimleri (Şartname Bölüm 07):
-- "Temizleme, eksik veri ve aykırı değer analizi, EDA. Araştırma soruları
-gerekirse güncellenir."
-
-Bu betik:
-1. `data/processed/raw_combined_history.parquet` (veya
-`listening_history.parquet`) dosyasını okur.
-2. Veri kalitesi, eksik veri ve aykırı değer (outlier) analizini yapar:
-   - Eksik (`null`) zaman damgası, sanatçı veya şarkı kayıtlarını raporlar ve
-   temizler.
-   - Mükerrer (`played_at` + `artist_name` + `track_name`) kayıtları eler.
-   - `< 1.000 ms` (1 sn altı) hatalı tıklama gürültüsünü ve `> 3.600.000 ms` (60
-   dk üstü) açık kalma anomalilerini filtreler; IQR yöntemiyle oturum süresi
-   dağılımını inceler.
-3. Dinleme oturumlarını (`session_id`) 30 dakikalık boşluk eşiğine göre yeniden
-numaralandırır ve
-   oturum bazlı öznitelik tablosunu (`data/processed/sessions_features.parquet`)
-   üretir.
-4. Aşama 1 ara raporunda kullanılacak 4 temel EDA grafiğini (`outputs/figures/`)
-ve kalite/EDA
-   özet raporunu (`outputs/findings/eda_summary.json`) üretir.
 """
 
 from __future__ import annotations
@@ -61,12 +39,17 @@ def assign_day_period(hour: int) -> str:
 
 
 def clean_listening_records(df: pd.DataFrame) -> tuple[pd.DataFrame, dict]:
-  """Eksik değerleri, mükerrer kayıtları ve süre aykırı değerlerini temizler."""
+  """Eksik değerleri, mükerrer kayıtları ve süre aykırı değerlerini kullanıcı bazında (`user_id`) temizler."""
   initial_count = len(df)
+
+  if "user_id" not in df.columns:
+    df["user_id"] = "user_01"
 
   # 1. Eksik temel alanların kontrolü ve temizlenmesi
   required_cols = ["played_at", "artist_name", "track_name", "ms_played"]
-  missing_before = {col: int(df[col].isna().sum()) for col in required_cols if col in df.columns}
+  missing_before = {
+      col: int(df[col].isna().sum()) for col in required_cols if col in df.columns
+  }
   df = df.dropna(subset=required_cols).copy()
 
   if "primary_genre" not in df.columns:
@@ -74,25 +57,39 @@ def clean_listening_records(df: pd.DataFrame) -> tuple[pd.DataFrame, dict]:
   else:
     df["primary_genre"] = df["primary_genre"].fillna("unknown").astype(str)
 
-  # 2. Mükerrer kayıt kontrolü
-  dup_count = int(df.duplicated(subset=["played_at", "artist_name", "track_name"]).sum())
-  df = df.drop_duplicates(subset=["played_at", "artist_name", "track_name"]).copy()
+  # 2. Kullanıcı bazında mükerrer kayıt kontrolü
+  dup_cols = ["user_id", "played_at", "artist_name", "track_name"]
+  dup_count = int(df.duplicated(subset=dup_cols).sum())
+  df = df.drop_duplicates(subset=dup_cols).copy()
 
   # 3. Aykırı süre filtresi (< 1 sn veya > 60 dk)
   too_short_count = int((df["ms_played"] < MIN_MS_THRESHOLD).sum())
   too_long_count = int((df["ms_played"] > MAX_MS_THRESHOLD).sum())
-  df = df[(df["ms_played"] >= MIN_MS_THRESHOLD) & (df["ms_played"] <= MAX_MS_THRESHOLD)].copy()
+  df = df[
+      (df["ms_played"] >= MIN_MS_THRESHOLD)
+      & (df["ms_played"] <= MAX_MS_THRESHOLD)
+  ].copy()
 
-  # 4. Kronolojik sıralama ve oturum (session) yeniden hesaplama
+  # 4. Kullanıcı bazında (`user_id`) kronolojik sıralama ve oturum (session_id) hesaplama
   df["played_at"] = pd.to_datetime(df["played_at"], utc=True)
-  df = df.sort_values("played_at").reset_index(drop=True)
+  df = df.sort_values(["user_id", "played_at"]).reset_index(drop=True)
 
   df["minutes_played"] = (df["ms_played"] / 60_000.0).round(3)
   df["is_skipped"] = df["ms_played"] < SKIP_MS_THRESHOLD
 
-  gap_min = df["played_at"].diff().dt.total_seconds().div(60.0).fillna(0.0)
+  gap_min = (
+      df.groupby("user_id")["played_at"]
+      .diff()
+      .dt.total_seconds()
+      .div(60.0)
+      .fillna(0.0)
+  )
   df["gap_minutes"] = gap_min.round(2)
-  df["is_new_session"] = (gap_min > SESSION_GAP_MINUTES) | (df.index == 0)
+
+  is_first_of_user = df["user_id"] != df["user_id"].shift(1)
+  df["is_new_session"] = is_first_of_user | (
+      df["gap_minutes"] > SESSION_GAP_MINUTES
+  )
   df["session_id"] = df["is_new_session"].cumsum()
 
   # Pandas 3.x / 4.x tam uyumlu tarih/saat özellikleri (dt.day_of_week)
@@ -111,6 +108,7 @@ def clean_listening_records(df: pd.DataFrame) -> tuple[pd.DataFrame, dict]:
   quality_report = {
       "initial_rows": int(initial_count),
       "cleaned_rows": int(len(df)),
+      "unique_users": int(df["user_id"].nunique()),
       "missing_values_before": missing_before,
       "duplicates_removed": dup_count,
       "outliers_too_short_removed": too_short_count,
@@ -128,7 +126,7 @@ def clean_listening_records(df: pd.DataFrame) -> tuple[pd.DataFrame, dict]:
 
 
 def build_session_features(df: pd.DataFrame) -> pd.DataFrame:
-  """Her dinleme oturumu (session_id) için öznitelik tablosunu üretir."""
+  """Her dinleme oturumu (session_id) için kullanıcı kimliğini (`user_id`) koruyarak öznitelik tablosunu üretir."""
   local_dt = df["played_at"].dt.tz_convert("Europe/Istanbul")
   df_temp = df.assign(local_played_at=local_dt)
 
@@ -139,6 +137,7 @@ def build_session_features(df: pd.DataFrame) -> pd.DataFrame:
   sessions = (
       df_temp.groupby("session_id", as_index=False)
       .agg(
+          user_id=("user_id", "first"),
           session_start=("local_played_at", "min"),
           session_end=("local_played_at", "max"),
           track_count=("track_name", "count"),
@@ -163,8 +162,12 @@ def build_session_features(df: pd.DataFrame) -> pd.DataFrame:
   ).round(4)
 
   # Döngüsel (cyclical) saat kodlaması
-  sessions["sin_hour"] = np.sin(2 * np.pi * sessions["start_hour"] / 24.0).round(4)
-  sessions["cos_hour"] = np.cos(2 * np.pi * sessions["start_hour"] / 24.0).round(4)
+  sessions["sin_hour"] = np.sin(
+      2 * np.pi * sessions["start_hour"] / 24.0
+  ).round(4)
+  sessions["cos_hour"] = np.cos(
+      2 * np.pi * sessions["start_hour"] / 24.0
+  ).round(4)
 
   return sessions
 
@@ -177,7 +180,6 @@ def generate_eda_figures(
   sns.set_theme(style="whitegrid", palette="deep")
   saved_files: list[str] = []
 
-  # 1. Gün × Saat Dinleme Yoğunluğu Isı Haritası
   day_order = [
       "Monday",
       "Tuesday",
@@ -221,7 +223,7 @@ def generate_eda_figures(
       cbar_kws={"label": "Toplam Dinleme (Dakika)"},
   )
   ax.set_title(
-      "Haftanın Günleri ve Saatlere Göre Dinleme Yoğunluğu (Isı Haritası)",
+      "25 Kullanıcı Toplam Gün × Saat Dinleme Yoğunluğu (Isı Haritası)",
       fontsize=12,
       fontweight="bold",
   )
@@ -233,7 +235,6 @@ def generate_eda_figures(
   plt.close(fig)
   saved_files.append(str(f1))
 
-  # 2. En Çok Dinlenen İlk 12 Sanatçı ve Atlama (Skip) Oranları
   top_artists = (
       df.groupby("artist_name", as_index=False)
       .agg(
@@ -275,7 +276,6 @@ def generate_eda_figures(
   plt.close(fig)
   saved_files.append(str(f2))
 
-  # 3. Oturum Uzunluğu (Dakika) ve Oturum Başına Şarkı Sayısı Dağılımı
   fig, axes = plt.subplots(1, 2, figsize=(10.5, 4.2), dpi=180)
   sns.histplot(
       sessions["total_minutes"], bins=25, kde=True, color="#2563EB", ax=axes[0]
@@ -300,7 +300,6 @@ def generate_eda_figures(
   plt.close(fig)
   saved_files.append(str(f3))
 
-  # 4. Günün Zaman Dilimlerine Göre Müzik Türü Dağılımı
   period_order = [
       "Sabah (06-11)",
       "Gündüz (12-17)",
@@ -377,10 +376,7 @@ def main() -> None:
     if fallback.exists():
       input_path = fallback
     else:
-      raise FileNotFoundError(
-          f"Girdi dosyası bulunamadı: {args.input}. Önce Hafta 2 betiğini"
-          " çalıştırın."
-      )
+      raise FileNotFoundError(f"Girdi dosyası bulunamadı: {args.input}.")
 
   df_raw = pd.read_parquet(input_path)
   df_clean, quality_report = clean_listening_records(df_raw)
@@ -419,7 +415,7 @@ def main() -> None:
   with open(summary_json_path, "w", encoding="utf-8") as f:
     json.dump(quality_report, f, ensure_ascii=False, indent=2)
 
-  print(f"[OK] Temizlenen dinleme verisi : {len(df_clean):,} satır -> {clean_path}")
+  print(f"[OK] Temizlenen dinleme verisi : {len(df_clean):,} satır ({quality_report['unique_users']} kullanıcı) -> {clean_path}")
   print(f"[OK] Oturum öznitelik tablosu  : {len(sessions_df):,} oturum -> {sessions_path}")
   print(f"[OK] EDA kalite ve özet raporu : {summary_json_path}")
   print(f"[OK] Üretilen EDA grafikleri   : {len(saved_figs)} adet ({args.figures_dir})")

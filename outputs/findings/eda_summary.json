@@ -1,13 +1,14 @@
 {
   "initial_rows": 7500,
-  "cleaned_rows": 7499,
+  "cleaned_rows": 7500,
+  "unique_users": 25,
   "missing_values_before": {
     "played_at": 0,
     "artist_name": 0,
     "track_name": 0,
     "ms_played": 0
   },
-  "duplicates_removed": 1,
+  "duplicates_removed": 0,
   "outliers_too_short_removed": 0,
   "outliers_too_long_removed": 0,
   "iqr_upper_bound_minutes": 5.24,
@@ -15,13 +16,13 @@
   "unique_artists": 25,
   "unique_tracks": 75,
   "unique_genres": 19,
-  "total_sessions": 31,
+  "total_sessions": 793,
   "overall_skip_rate": 0.0,
-  "total_hours_played": 425.41,
+  "total_hours_played": 425.46,
   "session_summary": {
-    "median_session_minutes": 340.52,
-    "iqr_session_minutes": 870.7,
-    "mean_session_tracks": 241.9,
+    "median_session_minutes": 31.78,
+    "iqr_session_minutes": 21.83,
+    "mean_session_tracks": 9.46,
     "mean_session_skip_rate": 0.0
   },
   "generated_figures": [
