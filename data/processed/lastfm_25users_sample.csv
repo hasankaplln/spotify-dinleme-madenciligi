@@ -1,0 +1,251 @@
+user_id,user_hash,user_archetype,played_at,artist_name,track_name,primary_genre,ms_played,loved,source,gap_minutes,is_new_session,session_id,minutes_played,is_skipped,hour,day_of_week,is_weekend
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 08:48:25+00:00,Duman,Her Şeyi Yak,Türkçe Rock,198000,0,lastfm_25users,0.0,True,1,3.3,False,11,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 08:52:32+00:00,Duman,Her Şeyi Yak,Türkçe Rock,244000,0,lastfm_25users,4.12,False,1,4.067,False,11,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 08:56:22+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,226000,1,lastfm_25users,3.83,False,1,3.767,False,11,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 08:59:10+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,160000,0,lastfm_25users,2.8,False,1,2.667,False,11,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 09:03:38+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,257000,0,lastfm_25users,4.47,False,1,4.283,False,12,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 09:07:42+00:00,Duman,Senden Daha Güzel,Türkçe Rock,233000,0,lastfm_25users,4.07,False,1,3.883,False,12,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 09:11:46+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,236000,0,lastfm_25users,4.07,False,1,3.933,False,12,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 09:14:42+00:00,Duman,Kufi,Türkçe Rock,164000,1,lastfm_25users,2.93,False,1,2.733,False,12,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 09:18:09+00:00,Gorillaz,Clint Eastwood,Alternative,199000,0,lastfm_25users,3.45,False,1,3.317,False,12,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 09:21:23+00:00,Şebnem Ferah,Sil Baştan,Türkçe Rock,190000,0,lastfm_25users,3.23,False,1,3.167,False,12,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 09:25:46+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,251000,0,lastfm_25users,4.38,False,1,4.183,False,12,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 17:26:55+00:00,Arctic Monkeys,R U Mine?,Indie Rock,240000,0,lastfm_25users,481.15,True,2,4.0,False,20,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 17:30:20+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,198000,0,lastfm_25users,3.42,False,2,3.3,False,20,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 17:33:17+00:00,Radiohead,Karma Police,Alternative Rock,174000,0,lastfm_25users,2.95,False,2,2.9,False,20,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 17:37:01+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,211000,0,lastfm_25users,3.73,False,2,3.517,False,20,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 17:39:51+00:00,Arctic Monkeys,R U Mine?,Indie Rock,157000,0,lastfm_25users,2.83,False,2,2.617,False,20,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 17:43:57+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,241000,0,lastfm_25users,4.1,False,2,4.017,False,20,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 17:47:40+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,219000,0,lastfm_25users,3.72,False,2,3.65,False,20,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 17:51:44+00:00,Ludovico Einaudi,Una Mattina,Classical / Focus,233000,0,lastfm_25users,4.07,False,2,3.883,False,20,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 22:37:07+00:00,Duman,Senden Daha Güzel,Türkçe Rock,256000,0,lastfm_25users,285.38,True,3,4.267,False,1,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 22:41:25+00:00,Sagopa Kajmer,Baytar,Türkçe Rap,248000,1,lastfm_25users,4.3,False,3,4.133,False,1,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 22:45:31+00:00,Glass Animals,Youth,Indie Electronic,235000,0,lastfm_25users,4.1,False,3,3.917,False,1,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-01 22:48:28+00:00,Radiohead,No Surprises,Alternative Rock,171000,0,lastfm_25users,2.95,False,3,2.85,False,1,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 04:48:11+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,154000,0,lastfm_25users,359.72,True,4,2.567,False,7,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 04:51:08+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,166000,0,lastfm_25users,2.95,False,4,2.767,False,7,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 04:55:06+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,225000,0,lastfm_25users,3.97,False,4,3.75,False,7,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 04:59:03+00:00,Duman,Senden Daha Güzel,Türkçe Rock,231000,0,lastfm_25users,3.95,False,4,3.85,False,7,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 05:03:26+00:00,Radiohead,No Surprises,Alternative Rock,256000,1,lastfm_25users,4.38,False,4,4.267,False,8,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 05:06:44+00:00,Radiohead,No Surprises,Alternative Rock,185000,0,lastfm_25users,3.3,False,4,3.083,False,8,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 05:09:56+00:00,Duman,Her Şeyi Yak,Türkçe Rock,190000,0,lastfm_25users,3.2,False,4,3.167,False,8,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 05:13:29+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,201000,0,lastfm_25users,3.55,False,4,3.35,False,8,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 05:16:27+00:00,Arctic Monkeys,505,Indie Rock,170000,0,lastfm_25users,2.97,False,4,2.833,False,8,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 07:27:55+00:00,Arctic Monkeys,R U Mine?,Indie Rock,202000,0,lastfm_25users,131.47,True,5,3.367,False,10,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 07:30:58+00:00,Duman,Her Şeyi Yak,Türkçe Rock,174000,0,lastfm_25users,3.05,False,5,2.9,False,10,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 07:34:55+00:00,Şebnem Ferah,Sil Baştan,Türkçe Rock,223000,0,lastfm_25users,3.95,False,5,3.717,False,10,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 07:38:17+00:00,The xx,Angels,Indie Pop,198000,0,lastfm_25users,3.37,False,5,3.3,False,10,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 07:42:28+00:00,Radiohead,Creep,Alternative Rock,241000,1,lastfm_25users,4.18,False,5,4.017,False,10,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 07:46:18+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,227000,1,lastfm_25users,3.83,False,5,3.783,False,10,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 07:49:33+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,184000,0,lastfm_25users,3.25,False,5,3.067,False,10,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 07:53:41+00:00,Fazıl Say,Nazım,Classical,241000,0,lastfm_25users,4.13,False,5,4.017,False,10,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 07:57:51+00:00,Radiohead,No Surprises,Alternative Rock,238000,0,lastfm_25users,4.17,False,5,3.967,False,10,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 08:01:16+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,192000,0,lastfm_25users,3.42,False,5,3.2,False,11,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 08:04:22+00:00,Fazıl Say,Nazım,Classical,181000,0,lastfm_25users,3.1,False,5,3.017,False,11,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 08:08:17+00:00,Radiohead,No Surprises,Alternative Rock,225000,0,lastfm_25users,3.92,False,5,3.75,False,11,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 10:26:20+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,171000,0,lastfm_25users,138.05,True,6,2.85,False,13,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 10:29:02+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,150000,0,lastfm_25users,2.7,False,6,2.5,False,13,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 10:33:10+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,236000,1,lastfm_25users,4.13,False,6,3.933,False,13,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 10:37:01+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,223000,0,lastfm_25users,3.85,False,6,3.717,False,13,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 10:40:53+00:00,Arctic Monkeys,R U Mine?,Indie Rock,227000,0,lastfm_25users,3.87,False,6,3.783,False,13,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 10:44:57+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,235000,0,lastfm_25users,4.07,False,6,3.917,False,13,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 10:48:25+00:00,Glass Animals,Youth,Indie Electronic,200000,0,lastfm_25users,3.47,False,6,3.333,False,13,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 10:51:59+00:00,Kendrick Lamar,HUMBLE.,Hip-Hop,212000,1,lastfm_25users,3.57,False,6,3.533,False,13,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 10:54:49+00:00,Arctic Monkeys,505,Indie Rock,165000,0,lastfm_25users,2.83,False,6,2.75,False,13,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 10:57:38+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,162000,0,lastfm_25users,2.82,False,6,2.7,False,13,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 11:01:31+00:00,Duman,Kufi,Türkçe Rock,223000,0,lastfm_25users,3.88,False,6,3.717,False,14,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 11:05:05+00:00,Radiohead,Creep,Alternative Rock,201000,0,lastfm_25users,3.57,False,6,3.35,False,14,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 11:08:40+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,212000,0,lastfm_25users,3.58,False,6,3.533,False,14,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 20:32:28+00:00,Duman,Kufi,Türkçe Rock,219000,0,lastfm_25users,563.8,True,7,3.65,False,23,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 20:36:01+00:00,Radiohead,Creep,Alternative Rock,210000,0,lastfm_25users,3.55,False,7,3.5,False,23,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 20:39:44+00:00,Duman,Senden Daha Güzel,Türkçe Rock,211000,0,lastfm_25users,3.72,False,7,3.517,False,23,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 20:42:56+00:00,Mabel Matiz,Fırtınadayım,Türkçe Pop,183000,0,lastfm_25users,3.2,False,7,3.05,False,23,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 20:45:35+00:00,Radiohead,Creep,Alternative Rock,153000,0,lastfm_25users,2.65,False,7,2.55,False,23,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 20:49:07+00:00,Radiohead,Karma Police,Alternative Rock,198000,0,lastfm_25users,3.53,False,7,3.3,False,23,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 20:52:05+00:00,Tarkan,Dudu,Türkçe Pop,173000,0,lastfm_25users,2.97,False,7,2.883,False,23,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 20:55:33+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,194000,0,lastfm_25users,3.47,False,7,3.233,False,23,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 20:59:38+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,243000,0,lastfm_25users,4.08,False,7,4.05,False,23,Friday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 21:02:45+00:00,Şebnem Ferah,Sil Baştan,Türkçe Rock,175000,0,lastfm_25users,3.12,False,7,2.917,False,0,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:24:58+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,180000,0,lastfm_25users,82.22,True,8,3.0,False,1,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:28:07+00:00,Mabel Matiz,Antidepresan,Türkçe Pop,182000,0,lastfm_25users,3.15,False,8,3.033,False,1,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:31:52+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,222000,0,lastfm_25users,3.75,False,8,3.7,False,1,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:35:31+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,211000,1,lastfm_25users,3.65,False,8,3.517,False,1,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:39:41+00:00,The Weeknd,Save Your Tears,Synthpop / R&B,236000,0,lastfm_25users,4.17,False,8,3.933,False,1,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:43:31+00:00,Radiohead,No Surprises,Alternative Rock,223000,0,lastfm_25users,3.83,False,8,3.717,False,1,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:46:52+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,194000,0,lastfm_25users,3.35,False,8,3.233,False,1,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:50:57+00:00,Arctic Monkeys,505,Indie Rock,239000,0,lastfm_25users,4.08,False,8,3.983,False,1,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:53:51+00:00,Radiohead,Karma Police,Alternative Rock,168000,0,lastfm_25users,2.9,False,8,2.8,False,1,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:56:26+00:00,Duman,Kufi,Türkçe Rock,152000,0,lastfm_25users,2.58,False,8,2.533,False,1,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 22:59:17+00:00,Duman,Senden Daha Güzel,Türkçe Rock,159000,0,lastfm_25users,2.85,False,8,2.65,False,1,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 23:03:17+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,229000,0,lastfm_25users,4.0,False,8,3.817,False,2,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 23:06:48+00:00,Ezhel,Felaket,Türkçe Rap,200000,0,lastfm_25users,3.52,False,8,3.333,False,2,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-02 23:09:48+00:00,Hans Zimmer,Cornfield Chase,Soundtrack,167000,0,lastfm_25users,3.0,False,8,2.783,False,2,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 05:32:42+00:00,Ludovico Einaudi,Una Mattina,Classical / Focus,166000,1,lastfm_25users,382.9,True,9,2.767,False,8,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 05:36:36+00:00,Tarkan,Şımarık,Türkçe Pop,226000,1,lastfm_25users,3.9,False,9,3.767,False,8,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 05:39:59+00:00,Dua Lipa,Levitating,Pop,199000,0,lastfm_25users,3.38,False,9,3.317,False,8,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 05:43:15+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,191000,0,lastfm_25users,3.27,False,9,3.183,False,8,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 05:46:28+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,183000,0,lastfm_25users,3.22,False,9,3.05,False,8,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 05:50:16+00:00,Daft Punk,Get Lucky,Electronic,219000,0,lastfm_25users,3.8,False,9,3.65,False,8,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 05:53:39+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,189000,0,lastfm_25users,3.38,False,9,3.15,False,8,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 05:56:24+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,159000,0,lastfm_25users,2.75,False,9,2.65,False,8,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 05:59:12+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,162000,0,lastfm_25users,2.8,False,9,2.7,False,8,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 06:03:33+00:00,Radiohead,No Surprises,Alternative Rock,255000,1,lastfm_25users,4.35,False,9,4.25,False,9,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 06:07:50+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,249000,1,lastfm_25users,4.28,False,9,4.15,False,9,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 06:11:43+00:00,Şebnem Ferah,Sil Baştan,Türkçe Rock,226000,0,lastfm_25users,3.88,False,9,3.767,False,9,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 06:14:53+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,179000,0,lastfm_25users,3.17,False,9,2.983,False,9,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 06:19:14+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,256000,1,lastfm_25users,4.35,False,9,4.267,False,9,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 06:23:14+00:00,Kendrick Lamar,Not Like Us,Hip-Hop,235000,0,lastfm_25users,4.0,False,9,3.917,False,9,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:13:44+00:00,The Weeknd,Blinding Lights,Synthpop / R&B,199000,0,lastfm_25users,530.5,True,10,3.317,False,18,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:16:46+00:00,Kendrick Lamar,HUMBLE.,Hip-Hop,179000,0,lastfm_25users,3.03,False,10,2.983,False,18,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:19:33+00:00,Kendrick Lamar,Not Like Us,Hip-Hop,160000,0,lastfm_25users,2.78,False,10,2.667,False,18,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:23:45+00:00,Dua Lipa,Levitating,Pop,249000,0,lastfm_25users,4.2,False,10,4.15,False,18,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:27:16+00:00,Duman,Kufi,Türkçe Rock,200000,0,lastfm_25users,3.52,False,10,3.333,False,18,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:30:19+00:00,Travis Scott,SICKO MODE,Trap / Hip-Hop,172000,0,lastfm_25users,3.05,False,10,2.867,False,18,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:33:34+00:00,The Weeknd,Blinding Lights,Synthpop / R&B,183000,1,lastfm_25users,3.25,False,10,3.05,False,18,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:37:16+00:00,Arctic Monkeys,505,Indie Rock,213000,0,lastfm_25users,3.7,False,10,3.55,False,18,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:40:13+00:00,Dua Lipa,Don't Start Now,Pop,169000,0,lastfm_25users,2.95,False,10,2.817,False,18,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:44:19+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,244000,0,lastfm_25users,4.1,False,10,4.067,False,18,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:48:20+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,233000,0,lastfm_25users,4.02,False,10,3.883,False,18,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:52:19+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,229000,0,lastfm_25users,3.98,False,10,3.817,False,18,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 15:55:42+00:00,Arctic Monkeys,505,Indie Rock,197000,0,lastfm_25users,3.38,False,10,3.283,False,18,Saturday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 23:45:19+00:00,Radiohead,No Surprises,Alternative Rock,214000,0,lastfm_25users,469.62,True,11,3.567,False,2,Sunday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 23:49:10+00:00,Radiohead,Creep,Alternative Rock,221000,0,lastfm_25users,3.85,False,11,3.683,False,2,Sunday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 23:52:00+00:00,Ólafur Arnalds,Brot,Ambient / Focus,159000,0,lastfm_25users,2.83,False,11,2.65,False,2,Sunday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 23:55:27+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,195000,0,lastfm_25users,3.45,False,11,3.25,False,2,Sunday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-03 23:58:05+00:00,Ceza,Fark Var,Türkçe Rap,154000,0,lastfm_25users,2.63,False,11,2.567,False,2,Sunday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 06:16:21+00:00,Max Richter,November,Neoclassical,186000,0,lastfm_25users,378.27,True,12,3.1,False,9,Sunday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 06:19:16+00:00,Arctic Monkeys,505,Indie Rock,165000,0,lastfm_25users,2.92,False,12,2.75,False,9,Sunday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 06:22:01+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,161000,0,lastfm_25users,2.75,False,12,2.683,False,9,Sunday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 06:25:47+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,214000,0,lastfm_25users,3.77,False,12,3.567,False,9,Sunday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 06:28:40+00:00,Duman,Kufi,Türkçe Rock,168000,0,lastfm_25users,2.88,False,12,2.8,False,9,Sunday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 06:33:05+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,251000,0,lastfm_25users,4.42,False,12,4.183,False,9,Sunday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 13:51:22+00:00,Radiohead,No Surprises,Alternative Rock,188000,0,lastfm_25users,438.28,True,13,3.133,False,16,Sunday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 13:55:02+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,215000,1,lastfm_25users,3.67,False,13,3.583,False,16,Sunday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 13:57:37+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,152000,1,lastfm_25users,2.58,False,13,2.533,False,16,Sunday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 14:01:59+00:00,The Weeknd,Save Your Tears,Synthpop / R&B,255000,0,lastfm_25users,4.37,False,13,4.25,False,17,Sunday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 14:05:30+00:00,Şebnem Ferah,Sil Baştan,Türkçe Rock,203000,1,lastfm_25users,3.52,False,13,3.383,False,17,Sunday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 14:09:28+00:00,Gorillaz,Feel Good Inc.,Alternative,236000,0,lastfm_25users,3.97,False,13,3.933,False,17,Sunday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 14:12:12+00:00,Glass Animals,Heat Waves,Indie Electronic,159000,0,lastfm_25users,2.73,False,13,2.65,False,17,Sunday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 14:15:45+00:00,Radiohead,Creep,Alternative Rock,203000,0,lastfm_25users,3.55,False,13,3.383,False,17,Sunday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-04 14:19:15+00:00,Duman,Kufi,Türkçe Rock,203000,0,lastfm_25users,3.5,False,13,3.383,False,17,Sunday,True
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 01:39:56+00:00,Hans Zimmer,Day One,Soundtrack,212000,0,lastfm_25users,680.68,True,14,3.533,False,4,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 01:43:30+00:00,Duman,Kufi,Türkçe Rock,202000,0,lastfm_25users,3.57,False,14,3.367,False,4,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 01:46:43+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,179000,0,lastfm_25users,3.22,False,14,2.983,False,4,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 01:49:58+00:00,Travis Scott,goosebumps,Trap / Hip-Hop,186000,0,lastfm_25users,3.25,False,14,3.1,False,4,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 01:53:38+00:00,Kendrick Lamar,Not Like Us,Hip-Hop,207000,0,lastfm_25users,3.67,False,14,3.45,False,4,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 07:34:16+00:00,Radiohead,Karma Police,Alternative Rock,152000,0,lastfm_25users,340.63,True,15,2.533,False,10,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 07:38:18+00:00,Arctic Monkeys,R U Mine?,Indie Rock,240000,0,lastfm_25users,4.03,False,15,4.0,False,10,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 07:42:35+00:00,Radiohead,Creep,Alternative Rock,248000,0,lastfm_25users,4.28,False,15,4.133,False,10,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 07:45:25+00:00,Arctic Monkeys,505,Indie Rock,165000,0,lastfm_25users,2.83,False,15,2.75,False,10,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 07:49:01+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,210000,0,lastfm_25users,3.6,False,15,3.5,False,10,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 07:51:52+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,161000,0,lastfm_25users,2.85,False,15,2.683,False,10,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 07:55:38+00:00,Radiohead,Karma Police,Alternative Rock,223000,1,lastfm_25users,3.77,False,15,3.717,False,10,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 11:50:31+00:00,Sagopa Kajmer,Ateşten Gömlek,Türkçe Rap,222000,0,lastfm_25users,234.88,True,16,3.7,False,14,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 11:54:34+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,229000,0,lastfm_25users,4.05,False,16,3.817,False,14,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 11:58:34+00:00,Tarkan,Dudu,Türkçe Pop,234000,0,lastfm_25users,4.0,False,16,3.9,False,14,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 12:01:24+00:00,Kendrick Lamar,Not Like Us,Hip-Hop,161000,0,lastfm_25users,2.83,False,16,2.683,False,15,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 12:05:48+00:00,Şebnem Ferah,Sil Baştan,Türkçe Rock,250000,0,lastfm_25users,4.4,False,16,4.167,False,15,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 12:08:48+00:00,Radiohead,Creep,Alternative Rock,175000,0,lastfm_25users,3.0,False,16,2.917,False,15,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 13:17:28+00:00,Radiohead,No Surprises,Alternative Rock,211000,0,lastfm_25users,68.67,True,17,3.517,False,16,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 13:20:44+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,190000,0,lastfm_25users,3.27,False,17,3.167,False,16,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 13:24:52+00:00,Glass Animals,Youth,Indie Electronic,241000,0,lastfm_25users,4.13,False,17,4.017,False,16,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 13:29:04+00:00,Radiohead,Creep,Alternative Rock,238000,0,lastfm_25users,4.2,False,17,3.967,False,16,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-05 13:32:12+00:00,Arctic Monkeys,505,Indie Rock,184000,0,lastfm_25users,3.13,False,17,3.067,False,16,Monday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:02:24+00:00,Arctic Monkeys,505,Indie Rock,182000,0,lastfm_25users,690.2,True,18,3.033,False,4,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:06:03+00:00,Kendrick Lamar,DNA.,Hip-Hop,206000,0,lastfm_25users,3.65,False,18,3.433,False,4,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:09:15+00:00,Şebnem Ferah,Sil Baştan,Türkçe Rock,178000,0,lastfm_25users,3.2,False,18,2.967,False,4,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:13:31+00:00,Duman,Her Şeyi Yak,Türkçe Rock,252000,1,lastfm_25users,4.27,False,18,4.2,False,4,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:16:27+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,168000,0,lastfm_25users,2.93,False,18,2.8,False,4,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:19:06+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,154000,0,lastfm_25users,2.65,False,18,2.567,False,4,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:22:37+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,197000,0,lastfm_25users,3.52,False,18,3.283,False,4,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:26:59+00:00,Mabel Matiz,Numaracı,Türkçe Pop,259000,0,lastfm_25users,4.37,False,18,4.317,False,4,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:31:10+00:00,Duman,Senden Daha Güzel,Türkçe Rock,248000,0,lastfm_25users,4.18,False,18,4.133,False,4,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:35:14+00:00,Duman,Kufi,Türkçe Rock,232000,0,lastfm_25users,4.07,False,18,3.867,False,4,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 01:39:25+00:00,Sagopa Kajmer,Baytar,Türkçe Rap,247000,0,lastfm_25users,4.18,False,18,4.117,False,4,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 12:30:00+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,207000,0,lastfm_25users,650.58,True,19,3.45,False,15,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 12:33:06+00:00,Arctic Monkeys,R U Mine?,Indie Rock,184000,0,lastfm_25users,3.1,False,19,3.067,False,15,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 12:37:06+00:00,Şebnem Ferah,Sil Baştan,Türkçe Rock,234000,0,lastfm_25users,4.0,False,19,3.9,False,15,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 12:40:55+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,222000,0,lastfm_25users,3.82,False,19,3.7,False,15,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 12:44:19+00:00,Radiohead,Karma Police,Alternative Rock,191000,1,lastfm_25users,3.4,False,19,3.183,False,15,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 14:32:17+00:00,Ludovico Einaudi,Nuvole Bianche,Classical / Focus,232000,0,lastfm_25users,107.97,True,20,3.867,False,17,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 14:35:17+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,178000,0,lastfm_25users,3.0,False,20,2.967,False,17,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 14:39:44+00:00,The xx,Crystalised,Indie Pop,253000,0,lastfm_25users,4.45,False,20,4.217,False,17,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 14:42:42+00:00,Glass Animals,Gooey,Indie Electronic,176000,0,lastfm_25users,2.97,False,20,2.933,False,17,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 14:45:27+00:00,Duman,Kufi,Türkçe Rock,163000,0,lastfm_25users,2.75,False,20,2.717,False,17,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 14:49:41+00:00,Radiohead,No Surprises,Alternative Rock,241000,0,lastfm_25users,4.23,False,20,4.017,False,17,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 14:52:38+00:00,Duman,Kufi,Türkçe Rock,166000,0,lastfm_25users,2.95,False,20,2.767,False,17,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 14:55:33+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,169000,0,lastfm_25users,2.92,False,20,2.817,False,17,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 14:59:19+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,215000,0,lastfm_25users,3.77,False,20,3.583,False,17,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 15:03:27+00:00,Şebnem Ferah,Sil Baştan,Türkçe Rock,246000,1,lastfm_25users,4.13,False,20,4.1,False,18,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 15:06:23+00:00,Radiohead,No Surprises,Alternative Rock,171000,0,lastfm_25users,2.93,False,20,2.85,False,18,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-06 15:09:41+00:00,Radiohead,Karma Police,Alternative Rock,184000,0,lastfm_25users,3.3,False,20,3.067,False,18,Tuesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 00:42:05+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,256000,0,lastfm_25users,572.4,True,21,4.267,False,3,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 00:45:37+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,205000,0,lastfm_25users,3.53,False,21,3.417,False,3,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 00:48:36+00:00,Radiohead,No Surprises,Alternative Rock,165000,0,lastfm_25users,2.98,False,21,2.75,False,3,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 00:51:11+00:00,Radiohead,Karma Police,Alternative Rock,151000,0,lastfm_25users,2.58,False,21,2.517,False,3,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 00:54:11+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,175000,1,lastfm_25users,3.0,False,21,2.917,False,3,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 00:56:57+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,164000,0,lastfm_25users,2.77,False,21,2.733,False,3,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 01:00:55+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,224000,0,lastfm_25users,3.97,False,21,3.733,False,4,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 03:06:34+00:00,Sezen Aksu,Gülümse,Türkçe Pop,205000,0,lastfm_25users,125.65,True,22,3.417,False,6,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 03:10:31+00:00,Duman,Her Şeyi Yak,Türkçe Rock,226000,0,lastfm_25users,3.95,False,22,3.767,False,6,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 03:14:11+00:00,Duman,Her Şeyi Yak,Türkçe Rock,213000,0,lastfm_25users,3.67,False,22,3.55,False,6,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 03:17:15+00:00,Ludovico Einaudi,Nuvole Bianche,Classical / Focus,171000,1,lastfm_25users,3.07,False,22,2.85,False,6,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 03:21:15+00:00,Arctic Monkeys,505,Indie Rock,238000,0,lastfm_25users,4.0,False,22,3.967,False,6,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 03:25:06+00:00,Duman,Kufi,Türkçe Rock,228000,0,lastfm_25users,3.85,False,22,3.8,False,6,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 03:29:09+00:00,Duman,Kufi,Türkçe Rock,231000,0,lastfm_25users,4.05,False,22,3.85,False,6,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 05:41:01+00:00,Duman,Senden Daha Güzel,Türkçe Rock,163000,0,lastfm_25users,131.87,True,23,2.717,False,8,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 05:45:16+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,252000,0,lastfm_25users,4.25,False,23,4.2,False,8,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 05:48:43+00:00,Radiohead,No Surprises,Alternative Rock,193000,0,lastfm_25users,3.45,False,23,3.217,False,8,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 05:51:49+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,183000,0,lastfm_25users,3.1,False,23,3.05,False,8,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 05:55:20+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,203000,0,lastfm_25users,3.52,False,23,3.383,False,8,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 05:59:08+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,222000,1,lastfm_25users,3.8,False,23,3.7,False,8,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 06:03:31+00:00,Ludovico Einaudi,Experience,Classical / Focus,255000,0,lastfm_25users,4.38,False,23,4.25,False,9,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 06:06:46+00:00,Mor ve Ötesi,Bir Derdim Var,Türkçe Rock,181000,0,lastfm_25users,3.25,False,23,3.017,False,9,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 06:11:05+00:00,Radiohead,Karma Police,Alternative Rock,251000,0,lastfm_25users,4.32,False,23,4.183,False,9,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:10:39+00:00,Duman,Senden Daha Güzel,Türkçe Rock,211000,0,lastfm_25users,59.57,True,24,3.517,False,10,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:14:30+00:00,Radiohead,Creep,Alternative Rock,219000,0,lastfm_25users,3.85,False,24,3.65,False,10,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:17:22+00:00,Ludovico Einaudi,Una Mattina,Classical / Focus,161000,0,lastfm_25users,2.87,False,24,2.683,False,10,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:20:18+00:00,Kendrick Lamar,HUMBLE.,Hip-Hop,165000,0,lastfm_25users,2.93,False,24,2.75,False,10,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:23:36+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,196000,1,lastfm_25users,3.3,False,24,3.267,False,10,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:27:56+00:00,Arctic Monkeys,R U Mine?,Indie Rock,256000,0,lastfm_25users,4.33,False,24,4.267,False,10,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:31:35+00:00,Arctic Monkeys,505,Indie Rock,215000,0,lastfm_25users,3.65,False,24,3.583,False,10,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:35:58+00:00,Radiohead,Karma Police,Alternative Rock,252000,0,lastfm_25users,4.38,False,24,4.2,False,10,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:40:03+00:00,Duman,Her Şeyi Yak,Türkçe Rock,238000,1,lastfm_25users,4.08,False,24,3.967,False,10,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:43:34+00:00,Arctic Monkeys,R U Mine?,Indie Rock,201000,0,lastfm_25users,3.52,False,24,3.35,False,10,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 07:47:43+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,236000,0,lastfm_25users,4.15,False,24,3.933,False,10,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 08:42:30+00:00,Ólafur Arnalds,Near Light,Ambient / Focus,162000,0,lastfm_25users,54.78,True,25,2.7,False,11,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 08:46:36+00:00,Mabel Matiz,Fırtınadayım,Türkçe Pop,241000,0,lastfm_25users,4.1,False,25,4.017,False,11,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 08:50:41+00:00,Arctic Monkeys,Do I Wanna Know?,Indie Rock,237000,0,lastfm_25users,4.08,False,25,3.95,False,11,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 08:53:42+00:00,Radiohead,Creep,Alternative Rock,175000,0,lastfm_25users,3.02,False,25,2.917,False,11,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 08:57:21+00:00,Arctic Monkeys,R U Mine?,Indie Rock,208000,1,lastfm_25users,3.65,False,25,3.467,False,11,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 09:01:11+00:00,Radiohead,No Surprises,Alternative Rock,216000,0,lastfm_25users,3.83,False,25,3.6,False,12,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 09:05:27+00:00,Radiohead,No Surprises,Alternative Rock,245000,1,lastfm_25users,4.27,False,25,4.083,False,12,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 09:09:08+00:00,Arctic Monkeys,505,Indie Rock,216000,1,lastfm_25users,3.68,False,25,3.6,False,12,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 09:12:26+00:00,Daft Punk,Instant Crush,Electronic,195000,0,lastfm_25users,3.3,False,25,3.25,False,12,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 09:15:51+00:00,Radiohead,Creep,Alternative Rock,191000,0,lastfm_25users,3.42,False,25,3.183,False,12,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 09:19:10+00:00,Radiohead,No Surprises,Alternative Rock,196000,0,lastfm_25users,3.32,False,25,3.267,False,12,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 17:26:20+00:00,Arctic Monkeys,R U Mine?,Indie Rock,245000,0,lastfm_25users,487.17,True,26,4.083,False,20,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 17:29:47+00:00,Radiohead,Creep,Alternative Rock,199000,1,lastfm_25users,3.45,False,26,3.317,False,20,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 17:32:49+00:00,Mor ve Ötesi,Oyunbozan,Türkçe Rock,177000,0,lastfm_25users,3.03,False,26,2.95,False,20,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 17:35:59+00:00,Şebnem Ferah,Mayın Tarlası,Türkçe Rock,176000,1,lastfm_25users,3.17,False,26,2.933,False,20,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 17:40:03+00:00,Radiohead,Karma Police,Alternative Rock,232000,0,lastfm_25users,4.07,False,26,3.867,False,20,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 17:44:16+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,239000,0,lastfm_25users,4.22,False,26,3.983,False,20,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 17:47:10+00:00,Arctic Monkeys,505,Indie Rock,161000,0,lastfm_25users,2.9,False,26,2.683,False,20,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 17:49:55+00:00,The Weeknd,Starboy,Synthpop / R&B,157000,0,lastfm_25users,2.75,False,26,2.617,False,20,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 17:53:36+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,215000,0,lastfm_25users,3.68,False,26,3.583,False,20,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 17:56:26+00:00,Duman,Kufi,Türkçe Rock,166000,0,lastfm_25users,2.83,False,26,2.767,False,20,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 18:00:32+00:00,Ceza,Fark Var,Türkçe Rap,240000,0,lastfm_25users,4.1,False,26,4.0,False,21,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 18:03:50+00:00,Arctic Monkeys,R U Mine?,Indie Rock,184000,0,lastfm_25users,3.3,False,26,3.067,False,21,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 18:06:48+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,165000,0,lastfm_25users,2.97,False,26,2.75,False,21,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 18:11:08+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,251000,0,lastfm_25users,4.33,False,26,4.183,False,21,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 18:14:00+00:00,Sezen Aksu,Tükeneceğiz,Türkçe Pop,168000,0,lastfm_25users,2.87,False,26,2.8,False,21,Wednesday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 22:09:53+00:00,Radiohead,Creep,Alternative Rock,166000,0,lastfm_25users,235.88,True,27,2.767,False,1,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 22:12:44+00:00,Radiohead,Karma Police,Alternative Rock,162000,0,lastfm_25users,2.85,False,27,2.7,False,1,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 22:15:27+00:00,Ludovico Einaudi,Experience,Classical / Focus,152000,0,lastfm_25users,2.72,False,27,2.533,False,1,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 22:18:07+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,156000,0,lastfm_25users,2.67,False,27,2.6,False,1,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 22:21:08+00:00,Radiohead,Creep,Alternative Rock,169000,0,lastfm_25users,3.02,False,27,2.817,False,1,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 22:23:50+00:00,Mor ve Ötesi,Cambaz,Türkçe Rock,155000,0,lastfm_25users,2.7,False,27,2.583,False,1,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 22:27:33+00:00,Arctic Monkeys,505,Indie Rock,215000,0,lastfm_25users,3.72,False,27,3.583,False,1,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 22:31:29+00:00,Şebnem Ferah,Yağmurlar,Türkçe Rock,224000,0,lastfm_25users,3.93,False,27,3.733,False,1,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 22:34:54+00:00,Arctic Monkeys,R U Mine?,Indie Rock,193000,0,lastfm_25users,3.42,False,27,3.217,False,1,Thursday,False
+user_01,4aa007f970b0,Rock_Alternatif,2026-10-07 22:38:12+00:00,Arctic Monkeys,R U Mine?,Indie Rock,184000,0,lastfm_25users,3.3,False,27,3.067,False,1,Thursday,False
